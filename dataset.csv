@@ -1,0 +1,667 @@
+﻿Age_Type,Food_Type,Food_Item,Amount_Taken,Allergy,Symptoms
+Infant / Toddlers,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Frequent Inflammation
+Infant / Toddlers,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+Infant / Toddlers,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Vomiting
+Infant / Toddlers,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Abdominal distention
+Children / Adolescents,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Frequent Inflammation
+Children / Adolescents,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+Children / Adolescents,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Vomiting
+Children / Adolescents,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Abdominal distention
+Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Inflammation in the small intestine
+Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Frequent diarrhea / Constipation
+Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Fatigue 
+Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Blistering skin condition
+Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Leg or arm numbness
+Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Eye irritation
+Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Canker sores inside the mouth
+Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Inflammation in the small intestine
+Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Frequent diarrhea / Constipation
+Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Fatigue 
+Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Blistering skin condition
+Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Leg or arm numbness
+Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Eye irritation
+Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Canker sores inside the mouth
+Infant / Toddlers,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Swelling in the face
+Infant / Toddlers,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Nausea and vomiting
+Infant / Toddlers,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Swelling in the face
+Infant / Toddlers,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Nausea and vomiting
+Children / Adolescents,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Swelling in the face
+Children / Adolescents,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Nausea and vomiting
+Children / Adolescents,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Swelling in the face
+Children / Adolescents,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Nausea and vomiting
+Adult,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Swelling in the face
+Adult,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Nausea and vomiting
+Adult,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Swelling in the face
+Adult,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Nausea and vomiting
+Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Runny or stuffed nose
+Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Loss of consciousness
+Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Rapid and irregular pulse
+Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Itchiness in the mouth
+Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Dizziness
+Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Runny or stuffed nose
+Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Loss of consciousness
+Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Rapid and irregular pulse
+Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Itchiness in the mouth
+Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Dizziness
+Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Runny or stuffed nose
+Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Loss of consciousness
+Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Rapid and irregular pulse
+Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Itchiness in the mouth
+Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Dizziness
+Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Runny or stuffed nose
+Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Loss of consciousness
+Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Rapid and irregular pulse
+Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Itchiness in the mouth
+Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Dizziness
+Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Runny or stuffed nose
+Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Loss of consciousness
+Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Rapid and irregular pulse
+Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Itchiness in the mouth
+Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Dizziness
+Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Runny or stuffed nose
+Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Loss of consciousness
+Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Rapid and irregular pulse
+Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Itchiness in the mouth
+Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Dizziness
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Runny or stuffed nose
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Loss of consciousness
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Rapid and irregular pulse
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Itchiness in the mouth
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Dizziness
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Runny or stuffed nose
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Loss of consciousness
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Rapid and irregular pulse
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Itchiness in the mouth
+Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Dizziness
+Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Runny or stuffed nose
+Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Loss of consciousness
+Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Rapid and irregular pulse
+Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Itchiness in the mouth
+Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Dizziness
+Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Runny or stuffed nose
+Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Loss of consciousness
+Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Rapid and irregular pulse
+Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Itchiness in the mouth
+Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Dizziness
+Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Runny or stuffed nose
+Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Loss of consciousness
+Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Rapid and irregular pulse
+Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Itchiness in the mouth
+Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Dizziness
+Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Runny or stuffed nose
+Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Loss of consciousness
+Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Rapid and irregular pulse
+Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Itchiness in the mouth
+Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Dizziness
+Infant / Toddlers,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Infant / Toddlers,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Children / Adolescents,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Children / Adolescents,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Adult,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Adult,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Infant / Toddlers,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Infant / Toddlers,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Children / Adolescents,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Children / Adolescents,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Adult,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Adult,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Infant / Toddlers,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Infant / Toddlers,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Children / Adolescents,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Children / Adolescents,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Adult,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Adult,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Infant / Toddlers,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Infant / Toddlers,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Children / Adolescents,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Children / Adolescents,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Adult,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+Adult,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+Infant / Toddlers,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+Infant / Toddlers,Fruit,Apple,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+Infant / Toddlers,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+Infant / Toddlers,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+Infant / Toddlers,Fruit,Apple,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+Infant / Toddlers,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+Children / Adolescents,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+Children / Adolescents,Fruit,Apple,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+Children / Adolescents,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+Children / Adolescents,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+Children / Adolescents,Fruit,Apple,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+Children / Adolescents,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+Adult,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+Adult,Fruit,Apple,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+Adult,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+Adult,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+Adult,Fruit,Apple,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+Adult,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+Infant / Toddlers,Fruit,Banana,Small Amount,Banana Allergy,Swelling of the skin - angioedema
+Infant / Toddlers,Fruit,Banana,Large Amount,Banana Allergy,Swelling of the skin - angioedema
+Children / Adolescents,Fruit,Banana,Small Amount,Banana Allergy,Swelling of the skin - angioedema
+Children / Adolescents,Fruit,Banana,Large Amount,Banana Allergy,Narrowing of the throat
+Adult,Fruit,Banana,Small Amount,Banana Allergy,Swelling of the skin - angioedema
+Adult,Fruit,Banana,Large Amount,Banana Allergy,Narrowing of the throat
+Infant / Toddlers,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Extreme itching
+Infant / Toddlers,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Infant / Toddlers,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Swelling and Blisters
+Infant / Toddlers,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,skin redness and skin that burns
+Infant / Toddlers,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Extreme itching
+Infant / Toddlers,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Infant / Toddlers,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Swelling and Blisters
+Infant / Toddlers,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,skin redness and skin that burns
+Children / Adolescents,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Extreme itching
+Children / Adolescents,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Children / Adolescents,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Swelling and Blisters
+Children / Adolescents,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,skin redness and skin that burns
+Children / Adolescents,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Extreme itching
+Children / Adolescents,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Children / Adolescents,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Swelling and Blisters
+Children / Adolescents,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,skin redness and skin that burns
+Adult,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Extreme itching
+Adult,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Adult,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Swelling and Blisters
+Adult,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,skin redness and skin that burns
+Adult,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Extreme itching
+Adult,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Adult,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Swelling and Blisters
+Adult,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,skin redness and skin that burns
+Infant / Toddlers,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Extreme itching
+Infant / Toddlers,Citrus Fruit,Limes,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Infant / Toddlers,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Swelling and Blisters
+Infant / Toddlers,Citrus Fruit,Limes,Small Amount,Citrus Allergy,skin redness and skin that burns
+Infant / Toddlers,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Extreme itching
+Infant / Toddlers,Citrus Fruit,Limes,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Infant / Toddlers,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Swelling and Blisters
+Infant / Toddlers,Citrus Fruit,Limes,Large Amount,Citrus Allergy,skin redness and skin that burns
+Children / Adolescents,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Extreme itching
+Children / Adolescents,Citrus Fruit,Limes,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Children / Adolescents,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Swelling and Blisters
+Children / Adolescents,Citrus Fruit,Limes,Small Amount,Citrus Allergy,skin redness and skin that burns
+Children / Adolescents,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Extreme itching
+Children / Adolescents,Citrus Fruit,Limes,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Children / Adolescents,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Swelling and Blisters
+Children / Adolescents,Citrus Fruit,Limes,Large Amount,Citrus Allergy,skin redness and skin that burns
+Adult,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Extreme itching
+Adult,Citrus Fruit,Limes,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Adult,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Swelling and Blisters
+Adult,Citrus Fruit,Limes,Small Amount,Citrus Allergy,skin redness and skin that burns
+Adult,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Extreme itching
+Adult,Citrus Fruit,Limes,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Adult,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Swelling and Blisters
+Adult,Citrus Fruit,Limes,Large Amount,Citrus Allergy,skin redness and skin that burns
+Infant / Toddlers,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Extreme itching
+Infant / Toddlers,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Infant / Toddlers,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Swelling and Blisters
+Infant / Toddlers,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,skin redness and skin that burns
+Infant / Toddlers,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Extreme itching
+Infant / Toddlers,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Infant / Toddlers,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Swelling and Blisters
+Infant / Toddlers,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,skin redness and skin that burns
+Children / Adolescents,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Extreme itching
+Children / Adolescents,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Children / Adolescents,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Swelling and Blisters
+Children / Adolescents,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,skin redness and skin that burns
+Children / Adolescents,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Extreme itching
+Children / Adolescents,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Children / Adolescents,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Swelling and Blisters
+Children / Adolescents,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,skin redness and skin that burns
+Adult,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Extreme itching
+Adult,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Adult,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Swelling and Blisters
+Adult,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,skin redness and skin that burns
+Adult,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Extreme itching
+Adult,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+Adult,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Swelling and Blisters
+Adult,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,skin redness and skin that burns
+Infant / Toddlers,Nut and seed,Almond,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Infant / Toddlers,Nut and seed,Almond,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Infant / Toddlers,Nut and seed,Almond,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Infant / Toddlers,Nut and seed,Almond,Small Amount,Nut Allergy,Itchy skin and rash
+Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,Itchy skin and rash
+Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Itchy skin and rash
+Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Paleness and floppiness
+Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Itchy skin and rash
+Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Paleness and floppiness
+Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Adult,Nut and seed,Almond,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Adult,Nut and seed,Almond,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Itchy skin and rash
+Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Wheeze or persistent cough
+Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Paleness and floppiness
+Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Adult,Nut and seed,Almond,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Adult,Nut and seed,Almond,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Itchy skin and rash
+Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Wheeze or persistent cough
+Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Paleness and floppiness
+Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Infant / Toddlers,Nut and seed,Peanut,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Infant / Toddlers,Nut and seed,Peanut,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Infant / Toddlers,Nut and seed,Peanut,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Infant / Toddlers,Nut and seed,Peanut,Small Amount,Nut Allergy,Itchy skin and rash
+Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,Itchy skin and rash
+Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Itchy skin and rash
+Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Paleness and floppiness
+Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Itchy skin and rash
+Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Paleness and floppiness
+Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Itchy skin and rash
+Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Wheeze or persistent cough
+Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Paleness and floppiness
+Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Itchy skin and rash
+Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Wheeze or persistent cough
+Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Paleness and floppiness
+Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Infant / Toddlers,Nut and seed,Cashews,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Infant / Toddlers,Nut and seed,Cashews,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Infant / Toddlers,Nut and seed,Cashews,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Infant / Toddlers,Nut and seed,Cashews,Small Amount,Nut Allergy,Itchy skin and rash
+Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,Itchy skin and rash
+Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Itchy skin and rash
+Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Paleness and floppiness
+Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Itchy skin and rash
+Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Paleness and floppiness
+Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Itchy skin and rash
+Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Wheeze or persistent cough
+Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Paleness and floppiness
+Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Itchy skin and rash
+Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Wheeze or persistent cough
+Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Paleness and floppiness
+Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Infant / Toddlers,Nut and seed,Pistachios,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Infant / Toddlers,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Infant / Toddlers,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Infant / Toddlers,Nut and seed,Pistachios,Small Amount,Nut Allergy,Itchy skin and rash
+Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,Itchy skin and rash
+Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Itchy skin and rash
+Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Paleness and floppiness
+Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Itchy skin and rash
+Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Wheeze or persistent cough
+Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Paleness and floppiness
+Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Bumps on the skin (hives)
+Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Itchy skin and rash
+Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Wheeze or persistent cough
+Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Paleness and floppiness
+Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Bumps on the skin (hives)
+Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Itchy skin and rash
+Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Wheeze or persistent cough
+Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Paleness and floppiness
+Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+Infant / Toddlers,Poultry,Eggs,Small Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+Infant / Toddlers,Poultry,Eggs,Small Amount,Poultry Allergy,Skin inflammation/burning
+Infant / Toddlers,Poultry,Eggs,Small Amount,Poultry Allergy,Bloating
+Infant / Toddlers,Poultry,Eggs,Large Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+Infant / Toddlers,Poultry,Eggs,Large Amount,Poultry Allergy,Skin inflammation/burning
+Infant / Toddlers,Poultry,Eggs,Large Amount,Poultry Allergy,Bloating
+Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Skin inflammation/burning
+Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Bloating
+Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Chest tightness
+Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Nasal congestion/runny nose
+Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Rapid pulse
+Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Loss of consciousness
+Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Skin inflammation/burning
+Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Bloating
+Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Chest tightness
+Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Nasal congestion/runny nose
+Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Rapid pulse
+Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Loss of consciousness
+Adult,Poultry,Eggs,Small Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Skin inflammation/burning
+Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Bloating
+Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Chest tightness
+Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Nasal congestion/runny nose
+Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Rapid pulse
+Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Loss of consciousness
+Adult,Poultry,Eggs,Large Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Skin inflammation/burning
+Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Bloating
+Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Chest tightness
+Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Nasal congestion/runny nose
+Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Rapid pulse
+Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Loss of consciousness
+Infant / Toddlers,SeaFood,Fish,Small Amount,Histamine Allergy,Reddened Skin
+Infant / Toddlers,SeaFood,Fish,Small Amount,Histamine Allergy,Raised circular weals
+Infant / Toddlers,SeaFood,Fish,Large Amount,Histamine Allergy,Reddened Skin
+Infant / Toddlers,SeaFood,Fish,Large Amount,Histamine Allergy,Raised circular weals
+Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Reddened Skin
+Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Raised circular weals
+Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Itchy skin and rash
+Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Indigestion
+Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,"Swollen, waterly eyes"
+Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Lightheadedness
+Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Vomiting
+Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Diarrhea
+Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Reddened Skin
+Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Raised circular weals
+Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Itchy skin and rash
+Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Indigestion
+Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,"Swollen, waterly eyes"
+Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Lightheadedness
+Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Vomiting
+Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Diarrhea
+Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Reddened Skin
+Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Raised circular weals
+Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Itchy skin and rash
+Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Indigestion
+Adult,SeaFood,Fish,Small Amount,Histamine Allergy,"Swollen, waterly eyes"
+Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Lightheadedness
+Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Vomiting
+Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Diarrhea
+Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Reddened Skin
+Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Raised circular weals
+Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Itchy skin and rash
+Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Indigestion
+Adult,SeaFood,Fish,Large Amount,Histamine Allergy,"Swollen, waterly eyes"
+Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Lightheadedness
+Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Vomiting
+Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Diarrhea
+Infant / Toddlers,SeaFood,Fish,Small Amount,Histamine Allergy,Reddened Skin
+Infant / Toddlers,SeaFood,Fish,Small Amount,Histamine Allergy,Raised circular weals
+Infant / Toddlers,SeaFood,Fish,Large Amount,Histamine Allergy,Reddened Skin
+Infant / Toddlers,SeaFood,Fish,Large Amount,Histamine Allergy,Raised circular weals
+Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Reddened Skin
+Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Raised circular weals
+Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Itchy skin and rash
+Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Indigestion
+Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Lightheadedness
+Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Vomiting
+Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Diarrhea
+Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Reddened Skin
+Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Raised circular weals
+Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Itchy skin and rash
+Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Indigestion
+Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Lightheadedness
+Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Vomiting
+Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Diarrhea
+Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Reddened Skin
+Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Raised circular weals
+Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Itchy skin and rash
+Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Indigestion
+Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Lightheadedness
+Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Vomiting
+Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Diarrhea
+Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Reddened Skin
+Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Raised circular weals
+Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Itchy skin and rash
+Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Indigestion
+Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Lightheadedness
+Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Vomiting
+Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Diarrhea
+Infant / Toddlers,Vegetable,Mushroom,Small Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+Infant / Toddlers,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Cramping and bloating
+Infant / Toddlers,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Difficulty in breathing
+Infant / Toddlers,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Runny nose and watery eyes
+Infant / Toddlers,Vegetable,Mushroom,Large Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+Infant / Toddlers,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Cramping and bloating
+Infant / Toddlers,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Difficulty in breathing
+Infant / Toddlers,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Runny nose and watery eyes
+Children / Adolescents,Vegetable,Mushroom,Small Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+Children / Adolescents,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Cramping and bloating
+Children / Adolescents,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Difficulty in breathing
+Children / Adolescents,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Runny nose and watery eyes
+Children / Adolescents,Vegetable,Mushroom,Large Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+Children / Adolescents,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Cramping and bloating
+Children / Adolescents,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Difficulty in breathing
+Children / Adolescents,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Runny nose and watery eyes
+Adult,Vegetable,Mushroom,Small Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+Adult,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Cramping and bloating
+Adult,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Difficulty in breathing
+Adult,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Runny nose and watery eyes
+Adult,Vegetable,Mushroom,Large Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+Adult,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Cramping and bloating
+Adult,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Difficulty in breathing
+Adult,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Runny nose and watery eyes
+Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Swelling
+Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Tingling
+Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Nausea
+Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Vomiting
+Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Diarrhea
+Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Wheezing
+Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Coughing
+Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Swelling
+Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Tingling
+Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Nausea
+Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Vomiting
+Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Diarrhea
+Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Wheezing
+Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Coughing
+Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Swelling
+Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Tingling
+Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Nausea
+Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Vomiting
+Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Diarrhea
+Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Wheezing
+Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Coughing
+Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Swelling
+Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Tingling
+Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Nausea
+Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Vomiting
+Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Diarrhea
+Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Wheezing
+Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Coughing
+Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Swelling
+Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Tingling
+Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Nausea
+Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Vomiting
+Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Diarrhea
+Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Wheezing
+Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Coughing
+Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Swelling
+Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Tingling
+Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Nausea
+Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Vomiting
+Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Diarrhea
+Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Wheezing
+Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Coughing
+Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Tingling or itching in the mouth
+Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Stomach pains
+Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Cramping
+Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Gas
+Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Dizziness or lightheadedness
+Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Tingling or itching in the mouth
+Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Stomach pains
+Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Cramping
+Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Gas
+Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Dizziness or lightheadedness
+Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Tingling or itching in the mouth
+Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Stomach pains
+Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Cramping
+Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Gas
+Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Dizziness or lightheadedness
+Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Tingling or itching in the mouth
+Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Stomach pains
+Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Cramping
+Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Gas
+Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Dizziness or lightheadedness
+Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Tingling or itching in the mouth
+Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Stomach pains
+Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Cramping
+Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Gas
+Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Dizziness or lightheadedness
+Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Tingling or itching in the mouth
+Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Stomach pains
+Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Cramping
+Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Gas
+Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Dizziness or lightheadedness
+Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Tingling or itching in the mouth
+Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Stomach pains
+Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Cramping
+Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Gas
+Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Dizziness or lightheadedness
+Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Tingling or itching in the mouth
+Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Stomach pains
+Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Cramping
+Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Gas
+Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Dizziness or lightheadedness
+Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Tingling or itching in the mouth
+Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Stomach pains
+Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Cramping
+Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Gas
+Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Dizziness or lightheadedness
+Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Tingling or itching in the mouth
+Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Stomach pains
+Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Cramping
+Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Gas
+Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Dizziness or lightheadedness
+Adult,Vegetable,Onion,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+Adult,Vegetable,Onion,Small Amount,Allium Allergy,Tingling or itching in the mouth
+Adult,Vegetable,Onion,Small Amount,Allium Allergy,Stomach pains
+Adult,Vegetable,Onion,Small Amount,Allium Allergy,Cramping
+Adult,Vegetable,Onion,Small Amount,Allium Allergy,Gas
+Adult,Vegetable,Onion,Small Amount,Allium Allergy,Dizziness or lightheadedness
+Adult,Vegetable,Onion,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+Adult,Vegetable,Onion,Large Amount,Allium Allergy,Tingling or itching in the mouth
+Adult,Vegetable,Onion,Large Amount,Allium Allergy,Stomach pains
+Adult,Vegetable,Onion,Large Amount,Allium Allergy,Cramping
+Adult,Vegetable,Onion,Large Amount,Allium Allergy,Gas
+Adult,Vegetable,Onion,Large Amount,Allium Allergy,Dizziness or lightheadedness

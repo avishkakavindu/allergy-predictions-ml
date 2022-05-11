@@ -1,0 +1,1 @@
+# Allergy predictions based on symptoms and user data
