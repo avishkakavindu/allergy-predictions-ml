@@ -15,3 +15,17 @@ class FoodAdmin(admin.ModelAdmin):
 @admin.register(Reference)
 class ReferenceAdmin(admin.ModelAdmin):
     pass
+
+
+@admin.register(FoodType)
+class FoodTypeAdmin(admin.ModelAdmin):
+    pass
+
+
+@admin.register(AgeType)
+class AgeType(admin.ModelAdmin):
+    pass
+
+@admin.register(Allergy)
+class AllergyAdmin(admin.ModelAdmin):
+    pass

@@ -32,7 +32,7 @@ class Patient(models.Model):
 
 
 class FoodType(models.Model):
-    """ HOld food type details """
+    """ Hold food type details """
 
     food_type = models.CharField(max_length=255)
 
@@ -44,17 +44,46 @@ class Food(models.Model):
     """ Hold food details """
 
     food = models.CharField(max_length=255, null=False, blank=False)
-    food_type = models.ForeignKey(FoodType, on_delete=models.CASCADE)
+    food_type = models.ForeignKey(FoodType, on_delete=models.CASCADE, null=True)
 
     def __str__(self):
         return self.food
 
 
+class Allergy(models.Model):
+    """ Hold allergy details """
+
+    allergy = models.CharField(max_length=255)
+
+    def __str__(self):
+        return self.allergy
+
+
 class Reference(models.Model):
     """ Food references(allergy related) """
 
-    food = models.ForeignKey(Food, on_delete=models.CASCADE)
+    allergy = models.ForeignKey(Allergy, on_delete=models.CASCADE, null=True)
     url = models.URLField(blank=True, null=True)
 
     def __str__(self):
-        return self.food.food
+        return self.allergy.allergy
+
+
+class AgeType(models.Model):
+    """ Holds age type details """
+    INFANT_TODDLER = 0
+    CHILDREN_ADOLESCENTS = 1
+    ADULT = 2
+
+    AGE_TYPES = [
+        (INFANT_TODDLER, 'Infant / Toddlers'),
+        (CHILDREN_ADOLESCENTS, 'Children / Adolescents'),
+        (ADULT, 'Adult')
+    ]
+
+    min_range = models.SmallIntegerField(default=1)
+    max_range = models.SmallIntegerField(default=3)
+    type = models.SmallIntegerField(choices=AGE_TYPES, default='INFANT_TODDLER')
+
+    def __str__(self):
+        return dict(self.AGE_TYPES)[self.type]

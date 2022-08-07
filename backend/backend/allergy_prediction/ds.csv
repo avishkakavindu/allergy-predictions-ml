@@ -1,0 +1,2440 @@
+,Age_Type,Food_Type,Food_Item,Amount_Taken,Allergy,Symptoms
+0,Infant / Toddlers,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Frequent Inflammation
+1,Infant / Toddlers,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+2,Infant / Toddlers,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Vomiting
+3,Infant / Toddlers,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Abdominal distention
+4,Children / Adolescents,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Frequent Inflammation
+5,Children / Adolescents,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+6,Children / Adolescents,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Vomiting
+7,Children / Adolescents,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Abdominal distention
+8,Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Inflammation in the small intestine
+9,Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Frequent diarrhea / Constipation
+10,Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Fatigue 
+11,Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Blistering skin condition
+12,Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Leg or arm numbness
+13,Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Eye irritation
+14,Adult,Cereal grain and pulse,Barley,Small Amount,Gluten Allergy,Canker sores inside the mouth
+15,Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Inflammation in the small intestine
+16,Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Frequent diarrhea / Constipation
+17,Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Fatigue 
+18,Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Blistering skin condition
+19,Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Leg or arm numbness
+20,Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Eye irritation
+21,Adult,Cereal grain and pulse,Barley,Large Amount,Gluten Allergy,Canker sores inside the mouth
+22,Infant / Toddlers,Cereal grain and pulse,Pastas,Small Amount,Gluten Allergy,Frequent Inflammation
+23,Infant / Toddlers,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+24,Infant / Toddlers,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Vomiting
+25,Infant / Toddlers,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Abdominal distention
+26,Children / Adolescents,Cereal grain and pulse,Pastas,Small Amount,Gluten Allergy,Frequent Inflammation
+27,Children / Adolescents,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+28,Children / Adolescents,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Vomiting
+29,Children / Adolescents,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Abdominal distention
+30,Adult,Cereal grain and pulse,Pastas,Small Amount,Gluten Allergy,Inflammation in the small intestine
+31,Adult,Cereal grain and pulse,Pastas,Small Amount,Gluten Allergy,Frequent diarrhea / Constipation
+32,Adult,Cereal grain and pulse,Pastas,Small Amount,Gluten Allergy,Fatigue 
+33,Adult,Cereal grain and pulse,Pastas,Small Amount,Gluten Allergy,Blistering skin condition
+34,Adult,Cereal grain and pulse,Pastas,Small Amount,Gluten Allergy,Leg or arm numbness
+35,Adult,Cereal grain and pulse,Pastas,Small Amount,Gluten Allergy,Eye irritation
+36,Adult,Cereal grain and pulse,Pastas,Small Amount,Gluten Allergy,Canker sores inside the mouth
+37,Adult,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Inflammation in the small intestine
+38,Adult,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Frequent diarrhea / Constipation
+39,Adult,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Fatigue 
+40,Adult,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Blistering skin condition
+41,Adult,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Leg or arm numbness
+42,Adult,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Eye irritation
+43,Adult,Cereal grain and pulse,Pastas,Large Amount,Gluten Allergy,Canker sores inside the mouth
+44,Infant / Toddlers,Cereal grain and pulse,French fries,Small Amount,Gluten Allergy,Frequent Inflammation
+45,Infant / Toddlers,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+46,Infant / Toddlers,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Vomiting
+47,Infant / Toddlers,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Abdominal distention
+48,Children / Adolescents,Cereal grain and pulse,French fries,Small Amount,Gluten Allergy,Frequent Inflammation
+49,Children / Adolescents,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+50,Children / Adolescents,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Vomiting
+51,Children / Adolescents,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Abdominal distention
+52,Adult,Cereal grain and pulse,French fries,Small Amount,Gluten Allergy,Inflammation in the small intestine
+53,Adult,Cereal grain and pulse,French fries,Small Amount,Gluten Allergy,Frequent diarrhea / Constipation
+54,Adult,Cereal grain and pulse,French fries,Small Amount,Gluten Allergy,Fatigue 
+55,Adult,Cereal grain and pulse,French fries,Small Amount,Gluten Allergy,Blistering skin condition
+56,Adult,Cereal grain and pulse,French fries,Small Amount,Gluten Allergy,Leg or arm numbness
+57,Adult,Cereal grain and pulse,French fries,Small Amount,Gluten Allergy,Eye irritation
+58,Adult,Cereal grain and pulse,French fries,Small Amount,Gluten Allergy,Canker sores inside the mouth
+59,Adult,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Inflammation in the small intestine
+60,Adult,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Frequent diarrhea / Constipation
+61,Adult,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Fatigue 
+62,Adult,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Blistering skin condition
+63,Adult,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Leg or arm numbness
+64,Adult,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Eye irritation
+65,Adult,Cereal grain and pulse,French fries,Large Amount,Gluten Allergy,Canker sores inside the mouth
+66,Infant / Toddlers,Cereal grain and pulse,Beer,Small Amount,Gluten Allergy,Frequent Inflammation
+67,Infant / Toddlers,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+68,Infant / Toddlers,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Vomiting
+69,Infant / Toddlers,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Abdominal distention
+70,Children / Adolescents,Cereal grain and pulse,Beer,Small Amount,Gluten Allergy,Frequent Inflammation
+71,Children / Adolescents,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+72,Children / Adolescents,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Vomiting
+73,Children / Adolescents,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Abdominal distention
+74,Adult,Cereal grain and pulse,Beer,Small Amount,Gluten Allergy,Inflammation in the small intestine
+75,Adult,Cereal grain and pulse,Beer,Small Amount,Gluten Allergy,Frequent diarrhea / Constipation
+76,Adult,Cereal grain and pulse,Beer,Small Amount,Gluten Allergy,Fatigue 
+77,Adult,Cereal grain and pulse,Beer,Small Amount,Gluten Allergy,Blistering skin condition
+78,Adult,Cereal grain and pulse,Beer,Small Amount,Gluten Allergy,Leg or arm numbness
+79,Adult,Cereal grain and pulse,Beer,Small Amount,Gluten Allergy,Eye irritation
+80,Adult,Cereal grain and pulse,Beer,Small Amount,Gluten Allergy,Canker sores inside the mouth
+81,Adult,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Inflammation in the small intestine
+82,Adult,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Frequent diarrhea / Constipation
+83,Adult,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Fatigue 
+84,Adult,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Blistering skin condition
+85,Adult,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Leg or arm numbness
+86,Adult,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Eye irritation
+87,Adult,Cereal grain and pulse,Beer,Large Amount,Gluten Allergy,Canker sores inside the mouth
+88,Infant / Toddlers,Cereal grain and pulse,Wafers,Small Amount,Gluten Allergy,Frequent Inflammation
+89,Infant / Toddlers,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+90,Infant / Toddlers,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Vomiting
+91,Infant / Toddlers,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Abdominal distention
+92,Children / Adolescents,Cereal grain and pulse,Wafers,Small Amount,Gluten Allergy,Frequent Inflammation
+93,Children / Adolescents,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+94,Children / Adolescents,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Vomiting
+95,Children / Adolescents,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Abdominal distention
+96,Adult,Cereal grain and pulse,Wafers,Small Amount,Gluten Allergy,Inflammation in the small intestine
+97,Adult,Cereal grain and pulse,Wafers,Small Amount,Gluten Allergy,Frequent diarrhea / Constipation
+98,Adult,Cereal grain and pulse,Wafers,Small Amount,Gluten Allergy,Fatigue 
+99,Adult,Cereal grain and pulse,Wafers,Small Amount,Gluten Allergy,Blistering skin condition
+100,Adult,Cereal grain and pulse,Wafers,Small Amount,Gluten Allergy,Leg or arm numbness
+101,Adult,Cereal grain and pulse,Wafers,Small Amount,Gluten Allergy,Eye irritation
+102,Adult,Cereal grain and pulse,Wafers,Small Amount,Gluten Allergy,Canker sores inside the mouth
+103,Adult,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Inflammation in the small intestine
+104,Adult,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Frequent diarrhea / Constipation
+105,Adult,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Fatigue 
+106,Adult,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Blistering skin condition
+107,Adult,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Leg or arm numbness
+108,Adult,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Eye irritation
+109,Adult,Cereal grain and pulse,Wafers,Large Amount,Gluten Allergy,Canker sores inside the mouth
+110,Infant / Toddlers,Cereal grain and pulse,Seasoned snack food,Small Amount,Gluten Allergy,Frequent Inflammation
+111,Infant / Toddlers,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+112,Infant / Toddlers,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Vomiting
+113,Infant / Toddlers,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Abdominal distention
+114,Children / Adolescents,Cereal grain and pulse,Seasoned snack food,Small Amount,Gluten Allergy,Frequent Inflammation
+115,Children / Adolescents,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Diarrhea with smelly stools
+116,Children / Adolescents,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Vomiting
+117,Children / Adolescents,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Abdominal distention
+118,Adult,Cereal grain and pulse,Seasoned snack food,Small Amount,Gluten Allergy,Inflammation in the small intestine
+119,Adult,Cereal grain and pulse,Seasoned snack food,Small Amount,Gluten Allergy,Frequent diarrhea / Constipation
+120,Adult,Cereal grain and pulse,Seasoned snack food,Small Amount,Gluten Allergy,Fatigue 
+121,Adult,Cereal grain and pulse,Seasoned snack food,Small Amount,Gluten Allergy,Blistering skin condition
+122,Adult,Cereal grain and pulse,Seasoned snack food,Small Amount,Gluten Allergy,Leg or arm numbness
+123,Adult,Cereal grain and pulse,Seasoned snack food,Small Amount,Gluten Allergy,Eye irritation
+124,Adult,Cereal grain and pulse,Seasoned snack food,Small Amount,Gluten Allergy,Canker sores inside the mouth
+125,Adult,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Inflammation in the small intestine
+126,Adult,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Frequent diarrhea / Constipation
+127,Adult,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Fatigue 
+128,Adult,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Blistering skin condition
+129,Adult,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Leg or arm numbness
+130,Adult,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Eye irritation
+131,Adult,Cereal grain and pulse,Seasoned snack food,Large Amount,Gluten Allergy,Canker sores inside the mouth
+132,Infant / Toddlers,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Swelling in the face
+133,Infant / Toddlers,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Nausea and vomiting
+134,Infant / Toddlers,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Swelling in the face
+135,Infant / Toddlers,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Nausea and vomiting
+136,Children / Adolescents,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Swelling in the face
+137,Children / Adolescents,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Nausea and vomiting
+138,Children / Adolescents,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Swelling in the face
+139,Children / Adolescents,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Nausea and vomiting
+140,Adult,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Swelling in the face
+141,Adult,Cereal grain and pulse,Beans,Small Amount,Legume Allergy,Nausea and vomiting
+142,Adult,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Swelling in the face
+143,Adult,Cereal grain and pulse,Beans,Large Amount,Legume Allergy,Nausea and vomiting
+144,Infant / Toddlers,Cereal grain and pulse,Green peas,Small Amount,Legume Allergy,Swelling in the face
+145,Infant / Toddlers,Cereal grain and pulse,Green peas,Small Amount,Legume Allergy,Nausea and vomiting
+146,Infant / Toddlers,Cereal grain and pulse,Green peas,Large Amount,Legume Allergy,Swelling in the face
+147,Infant / Toddlers,Cereal grain and pulse,Green peas,Large Amount,Legume Allergy,Nausea and vomiting
+148,Children / Adolescents,Cereal grain and pulse,Green peas,Small Amount,Legume Allergy,Swelling in the face
+149,Children / Adolescents,Cereal grain and pulse,Green peas,Small Amount,Legume Allergy,Nausea and vomiting
+150,Children / Adolescents,Cereal grain and pulse,Green peas,Large Amount,Legume Allergy,Swelling in the face
+151,Children / Adolescents,Cereal grain and pulse,Green peas,Large Amount,Legume Allergy,Nausea and vomiting
+152,Adult,Cereal grain and pulse,Green peas,Small Amount,Legume Allergy,Swelling in the face
+153,Adult,Cereal grain and pulse,Green peas,Small Amount,Legume Allergy,Nausea and vomiting
+154,Adult,Cereal grain and pulse,Green peas,Large Amount,Legume Allergy,Swelling in the face
+155,Adult,Cereal grain and pulse,Green peas,Large Amount,Legume Allergy,Nausea and vomiting
+156,Infant / Toddlers,Cereal grain and pulse,Dried seeds,Small Amount,Legume Allergy,Swelling in the face
+157,Infant / Toddlers,Cereal grain and pulse,Dried seeds,Small Amount,Legume Allergy,Nausea and vomiting
+158,Infant / Toddlers,Cereal grain and pulse,Dried seeds,Large Amount,Legume Allergy,Swelling in the face
+159,Infant / Toddlers,Cereal grain and pulse,Dried seeds,Large Amount,Legume Allergy,Nausea and vomiting
+160,Children / Adolescents,Cereal grain and pulse,Dried seeds,Small Amount,Legume Allergy,Swelling in the face
+161,Children / Adolescents,Cereal grain and pulse,Dried seeds,Small Amount,Legume Allergy,Nausea and vomiting
+162,Children / Adolescents,Cereal grain and pulse,Dried seeds,Large Amount,Legume Allergy,Swelling in the face
+163,Children / Adolescents,Cereal grain and pulse,Dried seeds,Large Amount,Legume Allergy,Nausea and vomiting
+164,Adult,Cereal grain and pulse,Dried seeds,Small Amount,Legume Allergy,Swelling in the face
+165,Adult,Cereal grain and pulse,Dried seeds,Small Amount,Legume Allergy,Nausea and vomiting
+166,Adult,Cereal grain and pulse,Dried seeds,Large Amount,Legume Allergy,Swelling in the face
+167,Adult,Cereal grain and pulse,Dried seeds,Large Amount,Legume Allergy,Nausea and vomiting
+168,Infant / Toddlers,Cereal grain and pulse,Pulse,Small Amount,Legume Allergy,Swelling in the face
+169,Infant / Toddlers,Cereal grain and pulse,Pulse,Small Amount,Legume Allergy,Nausea and vomiting
+170,Infant / Toddlers,Cereal grain and pulse,Pulse,Large Amount,Legume Allergy,Swelling in the face
+171,Infant / Toddlers,Cereal grain and pulse,Pulse,Large Amount,Legume Allergy,Nausea and vomiting
+172,Children / Adolescents,Cereal grain and pulse,Pulse,Small Amount,Legume Allergy,Swelling in the face
+173,Children / Adolescents,Cereal grain and pulse,Pulse,Small Amount,Legume Allergy,Nausea and vomiting
+174,Children / Adolescents,Cereal grain and pulse,Pulse,Large Amount,Legume Allergy,Swelling in the face
+175,Children / Adolescents,Cereal grain and pulse,Pulse,Large Amount,Legume Allergy,Nausea and vomiting
+176,Adult,Cereal grain and pulse,Pulse,Small Amount,Legume Allergy,Swelling in the face
+177,Adult,Cereal grain and pulse,Pulse,Small Amount,Legume Allergy,Nausea and vomiting
+178,Adult,Cereal grain and pulse,Pulse,Large Amount,Legume Allergy,Swelling in the face
+179,Adult,Cereal grain and pulse,Pulse,Large Amount,Legume Allergy,Nausea and vomiting
+180,Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Runny or stuffed nose
+181,Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Loss of consciousness
+182,Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Rapid and irregular pulse
+183,Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Itchiness in the mouth
+184,Infant / Toddlers,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Dizziness
+185,Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Runny or stuffed nose
+186,Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Loss of consciousness
+187,Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Rapid and irregular pulse
+188,Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Itchiness in the mouth
+189,Infant / Toddlers,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Dizziness
+190,Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Runny or stuffed nose
+191,Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Loss of consciousness
+192,Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Rapid and irregular pulse
+193,Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Itchiness in the mouth
+194,Children / Adolescents,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Dizziness
+195,Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Runny or stuffed nose
+196,Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Loss of consciousness
+197,Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Rapid and irregular pulse
+198,Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Itchiness in the mouth
+199,Children / Adolescents,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Dizziness
+200,Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Runny or stuffed nose
+201,Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Loss of consciousness
+202,Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Rapid and irregular pulse
+203,Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Itchiness in the mouth
+204,Adult,Cereal grain and pulse,Corn,Small Amount,Corn Allergy,Dizziness
+205,Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Runny or stuffed nose
+206,Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Loss of consciousness
+207,Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Rapid and irregular pulse
+208,Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Itchiness in the mouth
+209,Adult,Cereal grain and pulse,Corn,Large Amount,Corn Allergy,Dizziness
+210,Infant / Toddlers,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Runny or stuffed nose
+211,Infant / Toddlers,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Loss of consciousness
+212,Infant / Toddlers,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Rapid and irregular pulse
+213,Infant / Toddlers,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Itchiness in the mouth
+214,Infant / Toddlers,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Dizziness
+215,Infant / Toddlers,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Runny or stuffed nose
+216,Infant / Toddlers,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Loss of consciousness
+217,Infant / Toddlers,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Rapid and irregular pulse
+218,Infant / Toddlers,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Itchiness in the mouth
+219,Infant / Toddlers,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Dizziness
+220,Children / Adolescents,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Runny or stuffed nose
+221,Children / Adolescents,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Loss of consciousness
+222,Children / Adolescents,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Rapid and irregular pulse
+223,Children / Adolescents,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Itchiness in the mouth
+224,Children / Adolescents,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Dizziness
+225,Children / Adolescents,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Runny or stuffed nose
+226,Children / Adolescents,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Loss of consciousness
+227,Children / Adolescents,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Rapid and irregular pulse
+228,Children / Adolescents,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Itchiness in the mouth
+229,Children / Adolescents,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Dizziness
+230,Adult,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Runny or stuffed nose
+231,Adult,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Loss of consciousness
+232,Adult,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Rapid and irregular pulse
+233,Adult,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Itchiness in the mouth
+234,Adult,Cereal grain and pulse,Corn flour,Small Amount,Corn Allergy,Dizziness
+235,Adult,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Runny or stuffed nose
+236,Adult,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Loss of consciousness
+237,Adult,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Rapid and irregular pulse
+238,Adult,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Itchiness in the mouth
+239,Adult,Cereal grain and pulse,Corn flour,Large Amount,Corn Allergy,Dizziness
+240,Infant / Toddlers,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Runny or stuffed nose
+241,Infant / Toddlers,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Loss of consciousness
+242,Infant / Toddlers,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Rapid and irregular pulse
+243,Infant / Toddlers,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Itchiness in the mouth
+244,Infant / Toddlers,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Dizziness
+245,Infant / Toddlers,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Runny or stuffed nose
+246,Infant / Toddlers,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Loss of consciousness
+247,Infant / Toddlers,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Rapid and irregular pulse
+248,Infant / Toddlers,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Itchiness in the mouth
+249,Infant / Toddlers,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Dizziness
+250,Children / Adolescents,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Runny or stuffed nose
+251,Children / Adolescents,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Loss of consciousness
+252,Children / Adolescents,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Rapid and irregular pulse
+253,Children / Adolescents,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Itchiness in the mouth
+254,Children / Adolescents,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Dizziness
+255,Children / Adolescents,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Runny or stuffed nose
+256,Children / Adolescents,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Loss of consciousness
+257,Children / Adolescents,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Rapid and irregular pulse
+258,Children / Adolescents,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Itchiness in the mouth
+259,Children / Adolescents,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Dizziness
+260,Adult,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Runny or stuffed nose
+261,Adult,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Loss of consciousness
+262,Adult,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Rapid and irregular pulse
+263,Adult,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Itchiness in the mouth
+264,Adult,Cereal grain and pulse,cornflakes,Small Amount,Corn Allergy,Dizziness
+265,Adult,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Runny or stuffed nose
+266,Adult,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Loss of consciousness
+267,Adult,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Rapid and irregular pulse
+268,Adult,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Itchiness in the mouth
+269,Adult,Cereal grain and pulse,cornflakes,Large Amount,Corn Allergy,Dizziness
+270,Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Runny or stuffed nose
+271,Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Loss of consciousness
+272,Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Rapid and irregular pulse
+273,Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Itchiness in the mouth
+274,Infant / Toddlers,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Dizziness
+275,Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Runny or stuffed nose
+276,Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Loss of consciousness
+277,Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Rapid and irregular pulse
+278,Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Itchiness in the mouth
+279,Infant / Toddlers,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Dizziness
+280,Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Runny or stuffed nose
+281,Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Loss of consciousness
+282,Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Rapid and irregular pulse
+283,Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Itchiness in the mouth
+284,Children / Adolescents,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Dizziness
+285,Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Runny or stuffed nose
+286,Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Loss of consciousness
+287,Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Rapid and irregular pulse
+288,Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Itchiness in the mouth
+289,Children / Adolescents,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Dizziness
+290,Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Runny or stuffed nose
+291,Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Loss of consciousness
+292,Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Rapid and irregular pulse
+293,Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Itchiness in the mouth
+294,Adult,Cereal grain and pulse,Corn Products,Small Amount,Corn Allergy,Dizziness
+295,Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Runny or stuffed nose
+296,Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Loss of consciousness
+297,Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Rapid and irregular pulse
+298,Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Itchiness in the mouth
+299,Adult,Cereal grain and pulse,Corn Products,Large Amount,Corn Allergy,Dizziness
+300,Infant / Toddlers,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Runny or stuffed nose
+301,Infant / Toddlers,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Loss of consciousness
+302,Infant / Toddlers,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Rapid and irregular pulse
+303,Infant / Toddlers,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Itchiness in the mouth
+304,Infant / Toddlers,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Dizziness
+305,Infant / Toddlers,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Runny or stuffed nose
+306,Infant / Toddlers,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Loss of consciousness
+307,Infant / Toddlers,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Rapid and irregular pulse
+308,Infant / Toddlers,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Itchiness in the mouth
+309,Infant / Toddlers,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Dizziness
+310,Children / Adolescents,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Runny or stuffed nose
+311,Children / Adolescents,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Loss of consciousness
+312,Children / Adolescents,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Rapid and irregular pulse
+313,Children / Adolescents,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Itchiness in the mouth
+314,Children / Adolescents,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Dizziness
+315,Children / Adolescents,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Runny or stuffed nose
+316,Children / Adolescents,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Loss of consciousness
+317,Children / Adolescents,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Rapid and irregular pulse
+318,Children / Adolescents,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Itchiness in the mouth
+319,Children / Adolescents,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Dizziness
+320,Adult,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Runny or stuffed nose
+321,Adult,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Loss of consciousness
+322,Adult,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Rapid and irregular pulse
+323,Adult,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Itchiness in the mouth
+324,Adult,Cereal grain and pulse,Popcorn,Small Amount,Corn Allergy,Dizziness
+325,Adult,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Runny or stuffed nose
+326,Adult,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Loss of consciousness
+327,Adult,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Rapid and irregular pulse
+328,Adult,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Itchiness in the mouth
+329,Adult,Cereal grain and pulse,Popcorn,Large Amount,Corn Allergy,Dizziness
+330,Infant / Toddlers,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+331,Infant / Toddlers,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+332,Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+333,Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+334,Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+335,Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+336,Infant / Toddlers,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+337,Children / Adolescents,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+338,Children / Adolescents,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+339,Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+340,Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+341,Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+342,Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+343,Children / Adolescents,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+344,Adult,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+345,Adult,Dairy,Butter,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+346,Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+347,Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+348,Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+349,Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+350,Adult,Dairy,Butter,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+351,Infant / Toddlers,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+352,Infant / Toddlers,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+353,Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+354,Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+355,Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+356,Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+357,Infant / Toddlers,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+358,Children / Adolescents,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+359,Children / Adolescents,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+360,Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+361,Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+362,Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+363,Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+364,Children / Adolescents,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+365,Adult,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+366,Adult,Dairy,Milk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+367,Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+368,Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+369,Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+370,Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+371,Adult,Dairy,Milk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+372,Infant / Toddlers,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+373,Infant / Toddlers,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+374,Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+375,Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+376,Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+377,Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+378,Infant / Toddlers,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+379,Children / Adolescents,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+380,Children / Adolescents,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+381,Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+382,Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+383,Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+384,Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+385,Children / Adolescents,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+386,Adult,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+387,Adult,Dairy,Buttermilk,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+388,Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+389,Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+390,Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+391,Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+392,Adult,Dairy,Buttermilk,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+393,Infant / Toddlers,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+394,Infant / Toddlers,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+395,Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+396,Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+397,Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+398,Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+399,Infant / Toddlers,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+400,Children / Adolescents,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+401,Children / Adolescents,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+402,Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+403,Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+404,Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+405,Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+406,Children / Adolescents,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+407,Adult,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+408,Adult,Dairy,Cheese,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+409,Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+410,Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+411,Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+412,Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+413,Adult,Dairy,Cheese,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+414,Infant / Toddlers,Dairy,Yogurt,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+415,Infant / Toddlers,Dairy,Yogurt,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+416,Infant / Toddlers,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+417,Infant / Toddlers,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+418,Infant / Toddlers,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+419,Infant / Toddlers,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+420,Infant / Toddlers,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+421,Children / Adolescents,Dairy,Yogurt,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+422,Children / Adolescents,Dairy,Yogurt,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+423,Children / Adolescents,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+424,Children / Adolescents,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+425,Children / Adolescents,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+426,Children / Adolescents,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+427,Children / Adolescents,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+428,Adult,Dairy,Yogurt,Small Amount,Milk allergy / Lactose intolerance,Wheezing
+429,Adult,Dairy,Yogurt,Small Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+430,Adult,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Loose stools or diarrhea
+431,Adult,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Wheezing
+432,Adult,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Tingling feeling around the lips or mouth
+433,Adult,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Coughing or shortness of breath
+434,Adult,Dairy,Yogurt,Large Amount,Milk allergy / Lactose intolerance,Vomiting
+435,Infant / Toddlers,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+436,Infant / Toddlers,Fruit,Apple,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+437,Infant / Toddlers,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+438,Infant / Toddlers,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+439,Infant / Toddlers,Fruit,Apple,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+440,Infant / Toddlers,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+441,Children / Adolescents,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+442,Children / Adolescents,Fruit,Apple,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+443,Children / Adolescents,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+444,Children / Adolescents,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+445,Children / Adolescents,Fruit,Apple,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+446,Children / Adolescents,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+447,Adult,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+448,Adult,Fruit,Apple,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+449,Adult,Fruit,Apple,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+450,Adult,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+451,Adult,Fruit,Apple,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+452,Adult,Fruit,Apple,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+453,Infant / Toddlers,Fruit,Papaya,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+454,Infant / Toddlers,Fruit,Papaya,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+455,Infant / Toddlers,Fruit,Papaya,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+456,Infant / Toddlers,Fruit,Papaya,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+457,Infant / Toddlers,Fruit,Papaya,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+458,Infant / Toddlers,Fruit,Papaya,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+459,Children / Adolescents,Fruit,Papaya,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+460,Children / Adolescents,Fruit,Papaya,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+461,Children / Adolescents,Fruit,Papaya,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+462,Children / Adolescents,Fruit,Papaya,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+463,Children / Adolescents,Fruit,Papaya,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+464,Children / Adolescents,Fruit,Papaya,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+465,Adult,Fruit,Papaya,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+466,Adult,Fruit,Papaya,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+467,Adult,Fruit,Papaya,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+468,Adult,Fruit,Papaya,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+469,Adult,Fruit,Papaya,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+470,Adult,Fruit,Papaya,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+471,Infant / Toddlers,Fruit,Passion Fruit,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+472,Infant / Toddlers,Fruit,Passion Fruit,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+473,Infant / Toddlers,Fruit,Passion Fruit,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+474,Infant / Toddlers,Fruit,Passion Fruit,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+475,Infant / Toddlers,Fruit,Passion Fruit,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+476,Infant / Toddlers,Fruit,Passion Fruit,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+477,Children / Adolescents,Fruit,Passion Fruit,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+478,Children / Adolescents,Fruit,Passion Fruit,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+479,Children / Adolescents,Fruit,Passion Fruit,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+480,Children / Adolescents,Fruit,Passion Fruit,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+481,Children / Adolescents,Fruit,Passion Fruit,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+482,Children / Adolescents,Fruit,Passion Fruit,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+483,Adult,Fruit,Passion Fruit,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+484,Adult,Fruit,Passion Fruit,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+485,Adult,Fruit,Passion Fruit,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+486,Adult,Fruit,Passion Fruit,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+487,Adult,Fruit,Passion Fruit,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+488,Adult,Fruit,Passion Fruit,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+489,Infant / Toddlers,Fruit,Kiwi,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+490,Infant / Toddlers,Fruit,Kiwi,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+491,Infant / Toddlers,Fruit,Kiwi,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+492,Infant / Toddlers,Fruit,Kiwi,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+493,Infant / Toddlers,Fruit,Kiwi,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+494,Infant / Toddlers,Fruit,Kiwi,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+495,Children / Adolescents,Fruit,Kiwi,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+496,Children / Adolescents,Fruit,Kiwi,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+497,Children / Adolescents,Fruit,Kiwi,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+498,Children / Adolescents,Fruit,Kiwi,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+499,Children / Adolescents,Fruit,Kiwi,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+500,Children / Adolescents,Fruit,Kiwi,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+501,Adult,Fruit,Kiwi,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+502,Adult,Fruit,Kiwi,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+503,Adult,Fruit,Kiwi,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+504,Adult,Fruit,Kiwi,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+505,Adult,Fruit,Kiwi,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+506,Adult,Fruit,Kiwi,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+507,Infant / Toddlers,Fruit,Pineapple,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+508,Infant / Toddlers,Fruit,Pineapple,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+509,Infant / Toddlers,Fruit,Pineapple,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+510,Infant / Toddlers,Fruit,Pineapple,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+511,Infant / Toddlers,Fruit,Pineapple,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+512,Infant / Toddlers,Fruit,Pineapple,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+513,Children / Adolescents,Fruit,Pineapple,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+514,Children / Adolescents,Fruit,Pineapple,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+515,Children / Adolescents,Fruit,Pineapple,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+516,Children / Adolescents,Fruit,Pineapple,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+517,Children / Adolescents,Fruit,Pineapple,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+518,Children / Adolescents,Fruit,Pineapple,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+519,Adult,Fruit,Pineapple,Small Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+520,Adult,Fruit,Pineapple,Small Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+521,Adult,Fruit,Pineapple,Small Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+522,Adult,Fruit,Pineapple,Large Amount,Oral Allergy Syndrome,"Slight swelling and bumpiness of the mouth, throat, or lips"
+523,Adult,Fruit,Pineapple,Large Amount,Oral Allergy Syndrome,Difficulty swallowing or breathing
+524,Adult,Fruit,Pineapple,Large Amount,Oral Allergy Syndrome,"Itching and tingling of the mouth, throat, and sometimes lips"
+525,Infant / Toddlers,Fruit,Strawberry,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+526,Infant / Toddlers,Fruit,Strawberry,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+527,Infant / Toddlers,Fruit,Strawberry,Small Amount,Salicylate Allergy,Gas or Diarrhea
+528,Infant / Toddlers,Fruit,Strawberry,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+529,Infant / Toddlers,Fruit,Strawberry,Small Amount,Salicylate Allergy,Tissue swelling
+530,Infant / Toddlers,Fruit,Strawberry,Large Amount,Salicylate Allergy,Stuffy nose
+531,Infant / Toddlers,Fruit,Strawberry,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+532,Infant / Toddlers,Fruit,Strawberry,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+533,Infant / Toddlers,Fruit,Strawberry,Large Amount,Salicylate Allergy,Gas or Diarrhea
+534,Infant / Toddlers,Fruit,Strawberry,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+535,Infant / Toddlers,Fruit,Strawberry,Large Amount,Salicylate Allergy,Tissue swelling
+536,Children / Adolescents,Fruit,Strawberry,Small Amount,Salicylate Allergy,Stuffy nose
+537,Children / Adolescents,Fruit,Strawberry,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+538,Children / Adolescents,Fruit,Strawberry,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+539,Children / Adolescents,Fruit,Strawberry,Small Amount,Salicylate Allergy,Gas or Diarrhea
+540,Children / Adolescents,Fruit,Strawberry,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+541,Children / Adolescents,Fruit,Strawberry,Small Amount,Salicylate Allergy,Tissue swelling
+542,Children / Adolescents,Fruit,Strawberry,Large Amount,Salicylate Allergy,Stuffy nose
+543,Children / Adolescents,Fruit,Strawberry,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+544,Children / Adolescents,Fruit,Strawberry,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+545,Children / Adolescents,Fruit,Strawberry,Large Amount,Salicylate Allergy,Gas or Diarrhea
+546,Children / Adolescents,Fruit,Strawberry,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+547,Children / Adolescents,Fruit,Strawberry,Large Amount,Salicylate Allergy,Tissue swelling
+548,Adult,Fruit,Strawberry,Small Amount,Salicylate Allergy,Stuffy nose
+549,Adult,Fruit,Strawberry,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+550,Adult,Fruit,Strawberry,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+551,Adult,Fruit,Strawberry,Small Amount,Salicylate Allergy,Gas or Diarrhea
+552,Adult,Fruit,Strawberry,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+553,Adult,Fruit,Strawberry,Small Amount,Salicylate Allergy,Tissue swelling
+554,Adult,Fruit,Strawberry,Large Amount,Salicylate Allergy,Stuffy nose
+555,Adult,Fruit,Strawberry,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+556,Adult,Fruit,Strawberry,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+557,Adult,Fruit,Strawberry,Large Amount,Salicylate Allergy,Gas or Diarrhea
+558,Adult,Fruit,Strawberry,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+559,Adult,Fruit,Strawberry,Large Amount,Salicylate Allergy,Tissue swelling
+560,Infant / Toddlers,Fruit,Banana,Small Amount,Banana Allergy,Swelling of the skin - angioedema
+561,Infant / Toddlers,Fruit,Banana,Large Amount,Banana Allergy,Swelling of the skin - angioedema
+562,Children / Adolescents,Fruit,Banana,Small Amount,Banana Allergy,Swelling of the skin - angioedema
+563,Children / Adolescents,Fruit,Banana,Large Amount,Banana Allergy,Narrowing of the throat
+564,Adult,Fruit,Banana,Small Amount,Banana Allergy,Swelling of the skin - angioedema
+565,Adult,Fruit,Banana,Large Amount,Banana Allergy,Narrowing of the throat
+566,Infant / Toddlers,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Extreme itching
+567,Infant / Toddlers,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+568,Infant / Toddlers,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Swelling and Blisters
+569,Infant / Toddlers,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,skin redness and skin that burns
+570,Infant / Toddlers,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Extreme itching
+571,Infant / Toddlers,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+572,Infant / Toddlers,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Swelling and Blisters
+573,Infant / Toddlers,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,skin redness and skin that burns
+574,Children / Adolescents,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Extreme itching
+575,Children / Adolescents,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+576,Children / Adolescents,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Swelling and Blisters
+577,Children / Adolescents,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,skin redness and skin that burns
+578,Children / Adolescents,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Extreme itching
+579,Children / Adolescents,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+580,Children / Adolescents,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Swelling and Blisters
+581,Children / Adolescents,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,skin redness and skin that burns
+582,Adult,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Extreme itching
+583,Adult,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+584,Adult,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,Swelling and Blisters
+585,Adult,Citrus Fruit,Oranges,Small Amount,Citrus Allergy,skin redness and skin that burns
+586,Adult,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Extreme itching
+587,Adult,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+588,Adult,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,Swelling and Blisters
+589,Adult,Citrus Fruit,Oranges,Large Amount,Citrus Allergy,skin redness and skin that burns
+590,Infant / Toddlers,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Extreme itching
+591,Infant / Toddlers,Citrus Fruit,Limes,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+592,Infant / Toddlers,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Swelling and Blisters
+593,Infant / Toddlers,Citrus Fruit,Limes,Small Amount,Citrus Allergy,skin redness and skin that burns
+594,Infant / Toddlers,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Extreme itching
+595,Infant / Toddlers,Citrus Fruit,Limes,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+596,Infant / Toddlers,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Swelling and Blisters
+597,Infant / Toddlers,Citrus Fruit,Limes,Large Amount,Citrus Allergy,skin redness and skin that burns
+598,Children / Adolescents,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Extreme itching
+599,Children / Adolescents,Citrus Fruit,Limes,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+600,Children / Adolescents,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Swelling and Blisters
+601,Children / Adolescents,Citrus Fruit,Limes,Small Amount,Citrus Allergy,skin redness and skin that burns
+602,Children / Adolescents,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Extreme itching
+603,Children / Adolescents,Citrus Fruit,Limes,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+604,Children / Adolescents,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Swelling and Blisters
+605,Children / Adolescents,Citrus Fruit,Limes,Large Amount,Citrus Allergy,skin redness and skin that burns
+606,Adult,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Extreme itching
+607,Adult,Citrus Fruit,Limes,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+608,Adult,Citrus Fruit,Limes,Small Amount,Citrus Allergy,Swelling and Blisters
+609,Adult,Citrus Fruit,Limes,Small Amount,Citrus Allergy,skin redness and skin that burns
+610,Adult,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Extreme itching
+611,Adult,Citrus Fruit,Limes,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+612,Adult,Citrus Fruit,Limes,Large Amount,Citrus Allergy,Swelling and Blisters
+613,Adult,Citrus Fruit,Limes,Large Amount,Citrus Allergy,skin redness and skin that burns
+614,Infant / Toddlers,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Extreme itching
+615,Infant / Toddlers,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+616,Infant / Toddlers,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Swelling and Blisters
+617,Infant / Toddlers,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,skin redness and skin that burns
+618,Infant / Toddlers,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Extreme itching
+619,Infant / Toddlers,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+620,Infant / Toddlers,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Swelling and Blisters
+621,Infant / Toddlers,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,skin redness and skin that burns
+622,Children / Adolescents,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Extreme itching
+623,Children / Adolescents,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+624,Children / Adolescents,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Swelling and Blisters
+625,Children / Adolescents,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,skin redness and skin that burns
+626,Children / Adolescents,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Extreme itching
+627,Children / Adolescents,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+628,Children / Adolescents,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Swelling and Blisters
+629,Children / Adolescents,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,skin redness and skin that burns
+630,Adult,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Extreme itching
+631,Adult,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+632,Adult,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,Swelling and Blisters
+633,Adult,Citrus Fruit,Lemons,Small Amount,Citrus Allergy,skin redness and skin that burns
+634,Adult,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Extreme itching
+635,Adult,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+636,Adult,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,Swelling and Blisters
+637,Adult,Citrus Fruit,Lemons,Large Amount,Citrus Allergy,skin redness and skin that burns
+638,Infant / Toddlers,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,Extreme itching
+639,Infant / Toddlers,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+640,Infant / Toddlers,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,Swelling and Blisters
+641,Infant / Toddlers,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,skin redness and skin that burns
+642,Infant / Toddlers,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,Extreme itching
+643,Infant / Toddlers,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+644,Infant / Toddlers,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,Swelling and Blisters
+645,Infant / Toddlers,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,skin redness and skin that burns
+646,Children / Adolescents,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,Extreme itching
+647,Children / Adolescents,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+648,Children / Adolescents,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,Swelling and Blisters
+649,Children / Adolescents,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,skin redness and skin that burns
+650,Children / Adolescents,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,Extreme itching
+651,Children / Adolescents,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+652,Children / Adolescents,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,Swelling and Blisters
+653,Children / Adolescents,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,skin redness and skin that burns
+654,Adult,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,Extreme itching
+655,Adult,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+656,Adult,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,Swelling and Blisters
+657,Adult,Citrus Fruit,Grapefruits,Small Amount,Citrus Allergy,skin redness and skin that burns
+658,Adult,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,Extreme itching
+659,Adult,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+660,Adult,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,Swelling and Blisters
+661,Adult,Citrus Fruit,Grapefruits,Large Amount,Citrus Allergy,skin redness and skin that burns
+662,Infant / Toddlers,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,Extreme itching
+663,Infant / Toddlers,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+664,Infant / Toddlers,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,Swelling and Blisters
+665,Infant / Toddlers,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,skin redness and skin that burns
+666,Infant / Toddlers,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,Extreme itching
+667,Infant / Toddlers,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+668,Infant / Toddlers,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,Swelling and Blisters
+669,Infant / Toddlers,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,skin redness and skin that burns
+670,Children / Adolescents,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,Extreme itching
+671,Children / Adolescents,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+672,Children / Adolescents,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,Swelling and Blisters
+673,Children / Adolescents,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,skin redness and skin that burns
+674,Children / Adolescents,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,Extreme itching
+675,Children / Adolescents,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+676,Children / Adolescents,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,Swelling and Blisters
+677,Children / Adolescents,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,skin redness and skin that burns
+678,Adult,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,Extreme itching
+679,Adult,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+680,Adult,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,Swelling and Blisters
+681,Adult,Citrus Fruit,Raw citrus fruits,Small Amount,Citrus Allergy,skin redness and skin that burns
+682,Adult,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,Extreme itching
+683,Adult,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,"Dry, scaly, flaky skin"
+684,Adult,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,Swelling and Blisters
+685,Adult,Citrus Fruit,Raw citrus fruits,Large Amount,Citrus Allergy,skin redness and skin that burns
+686,Infant / Toddlers,Nut and seed,Almond,Small Amount,Nut Allergy,Bumps on the skin (hives)
+687,Infant / Toddlers,Nut and seed,Almond,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+688,Infant / Toddlers,Nut and seed,Almond,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+689,Infant / Toddlers,Nut and seed,Almond,Small Amount,Nut Allergy,Itchy skin and rash
+690,Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,Bumps on the skin (hives)
+691,Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+692,Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+693,Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,Itchy skin and rash
+694,Infant / Toddlers,Nut and seed,Almond,Large Amount,Nut Allergy,Wheeze or persistent cough
+695,Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Bumps on the skin (hives)
+696,Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+697,Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+698,Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Itchy skin and rash
+699,Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Wheeze or persistent cough
+700,Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Paleness and floppiness
+701,Children / Adolescents,Nut and seed,Almond,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+702,Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Bumps on the skin (hives)
+703,Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+704,Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+705,Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Itchy skin and rash
+706,Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Wheeze or persistent cough
+707,Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Paleness and floppiness
+708,Children / Adolescents,Nut and seed,Almond,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+709,Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Bumps on the skin (hives)
+710,Adult,Nut and seed,Almond,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+711,Adult,Nut and seed,Almond,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+712,Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Itchy skin and rash
+713,Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Wheeze or persistent cough
+714,Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Paleness and floppiness
+715,Adult,Nut and seed,Almond,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+716,Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Bumps on the skin (hives)
+717,Adult,Nut and seed,Almond,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+718,Adult,Nut and seed,Almond,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+719,Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Itchy skin and rash
+720,Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Wheeze or persistent cough
+721,Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Paleness and floppiness
+722,Adult,Nut and seed,Almond,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+723,Infant / Toddlers,Nut and seed,Peanut,Small Amount,Nut Allergy,Bumps on the skin (hives)
+724,Infant / Toddlers,Nut and seed,Peanut,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+725,Infant / Toddlers,Nut and seed,Peanut,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+726,Infant / Toddlers,Nut and seed,Peanut,Small Amount,Nut Allergy,Itchy skin and rash
+727,Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,Bumps on the skin (hives)
+728,Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+729,Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+730,Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,Itchy skin and rash
+731,Infant / Toddlers,Nut and seed,Peanut,Large Amount,Nut Allergy,Wheeze or persistent cough
+732,Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Bumps on the skin (hives)
+733,Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+734,Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+735,Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Itchy skin and rash
+736,Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Wheeze or persistent cough
+737,Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Paleness and floppiness
+738,Children / Adolescents,Nut and seed,Peanut,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+739,Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Bumps on the skin (hives)
+740,Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+741,Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+742,Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Itchy skin and rash
+743,Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Wheeze or persistent cough
+744,Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Paleness and floppiness
+745,Children / Adolescents,Nut and seed,Peanut,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+746,Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Bumps on the skin (hives)
+747,Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+748,Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+749,Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Itchy skin and rash
+750,Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Wheeze or persistent cough
+751,Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Paleness and floppiness
+752,Adult,Nut and seed,Peanut,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+753,Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Bumps on the skin (hives)
+754,Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+755,Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+756,Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Itchy skin and rash
+757,Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Wheeze or persistent cough
+758,Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Paleness and floppiness
+759,Adult,Nut and seed,Peanut,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+760,Infant / Toddlers,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Bumps on the skin (hives)
+761,Infant / Toddlers,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+762,Infant / Toddlers,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+763,Infant / Toddlers,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Itchy skin and rash
+764,Infant / Toddlers,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Bumps on the skin (hives)
+765,Infant / Toddlers,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+766,Infant / Toddlers,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+767,Infant / Toddlers,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Itchy skin and rash
+768,Infant / Toddlers,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Wheeze or persistent cough
+769,Children / Adolescents,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Bumps on the skin (hives)
+770,Children / Adolescents,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+771,Children / Adolescents,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+772,Children / Adolescents,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Itchy skin and rash
+773,Children / Adolescents,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Wheeze or persistent cough
+774,Children / Adolescents,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Paleness and floppiness
+775,Children / Adolescents,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+776,Children / Adolescents,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Bumps on the skin (hives)
+777,Children / Adolescents,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+778,Children / Adolescents,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+779,Children / Adolescents,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Itchy skin and rash
+780,Children / Adolescents,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Wheeze or persistent cough
+781,Children / Adolescents,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Paleness and floppiness
+782,Children / Adolescents,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+783,Adult,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Bumps on the skin (hives)
+784,Adult,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+785,Adult,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+786,Adult,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Itchy skin and rash
+787,Adult,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Wheeze or persistent cough
+788,Adult,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Paleness and floppiness
+789,Adult,Nut and seed,Peanut Butter,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+790,Adult,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Bumps on the skin (hives)
+791,Adult,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+792,Adult,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+793,Adult,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Itchy skin and rash
+794,Adult,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Wheeze or persistent cough
+795,Adult,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Paleness and floppiness
+796,Adult,Nut and seed,Peanut Butter,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+797,Infant / Toddlers,Nut and seed,Cashews,Small Amount,Nut Allergy,Bumps on the skin (hives)
+798,Infant / Toddlers,Nut and seed,Cashews,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+799,Infant / Toddlers,Nut and seed,Cashews,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+800,Infant / Toddlers,Nut and seed,Cashews,Small Amount,Nut Allergy,Itchy skin and rash
+801,Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,Bumps on the skin (hives)
+802,Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+803,Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+804,Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,Itchy skin and rash
+805,Infant / Toddlers,Nut and seed,Cashews,Large Amount,Nut Allergy,Wheeze or persistent cough
+806,Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Bumps on the skin (hives)
+807,Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+808,Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+809,Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Itchy skin and rash
+810,Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Wheeze or persistent cough
+811,Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Paleness and floppiness
+812,Children / Adolescents,Nut and seed,Cashews,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+813,Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Bumps on the skin (hives)
+814,Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+815,Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+816,Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Itchy skin and rash
+817,Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Wheeze or persistent cough
+818,Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Paleness and floppiness
+819,Children / Adolescents,Nut and seed,Cashews,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+820,Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Bumps on the skin (hives)
+821,Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+822,Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+823,Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Itchy skin and rash
+824,Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Wheeze or persistent cough
+825,Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Paleness and floppiness
+826,Adult,Nut and seed,Cashews,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+827,Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Bumps on the skin (hives)
+828,Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+829,Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+830,Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Itchy skin and rash
+831,Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Wheeze or persistent cough
+832,Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Paleness and floppiness
+833,Adult,Nut and seed,Cashews,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+834,Infant / Toddlers,Nut and seed,Pistachios,Small Amount,Nut Allergy,Bumps on the skin (hives)
+835,Infant / Toddlers,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+836,Infant / Toddlers,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+837,Infant / Toddlers,Nut and seed,Pistachios,Small Amount,Nut Allergy,Itchy skin and rash
+838,Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,Bumps on the skin (hives)
+839,Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+840,Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+841,Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,Itchy skin and rash
+842,Infant / Toddlers,Nut and seed,Pistachios,Large Amount,Nut Allergy,Wheeze or persistent cough
+843,Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Bumps on the skin (hives)
+844,Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+845,Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+846,Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Itchy skin and rash
+847,Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Wheeze or persistent cough
+848,Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Paleness and floppiness
+849,Children / Adolescents,Nut and seed,Pistachios,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+850,Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Bumps on the skin (hives)
+851,Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+852,Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+853,Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Itchy skin and rash
+854,Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Wheeze or persistent cough
+855,Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Paleness and floppiness
+856,Children / Adolescents,Nut and seed,Pistachios,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+857,Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Bumps on the skin (hives)
+858,Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+859,Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+860,Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Itchy skin and rash
+861,Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Wheeze or persistent cough
+862,Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Paleness and floppiness
+863,Adult,Nut and seed,Pistachios,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+864,Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Bumps on the skin (hives)
+865,Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+866,Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+867,Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Itchy skin and rash
+868,Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Wheeze or persistent cough
+869,Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Paleness and floppiness
+870,Adult,Nut and seed,Pistachios,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+871,Infant / Toddlers,Nut and seed,Chestnut,Small Amount,Nut Allergy,Bumps on the skin (hives)
+872,Infant / Toddlers,Nut and seed,Chestnut,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+873,Infant / Toddlers,Nut and seed,Chestnut,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+874,Infant / Toddlers,Nut and seed,Chestnut,Small Amount,Nut Allergy,Itchy skin and rash
+875,Infant / Toddlers,Nut and seed,Chestnut,Large Amount,Nut Allergy,Bumps on the skin (hives)
+876,Infant / Toddlers,Nut and seed,Chestnut,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+877,Infant / Toddlers,Nut and seed,Chestnut,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+878,Infant / Toddlers,Nut and seed,Chestnut,Large Amount,Nut Allergy,Itchy skin and rash
+879,Infant / Toddlers,Nut and seed,Chestnut,Large Amount,Nut Allergy,Wheeze or persistent cough
+880,Children / Adolescents,Nut and seed,Chestnut,Small Amount,Nut Allergy,Bumps on the skin (hives)
+881,Children / Adolescents,Nut and seed,Chestnut,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+882,Children / Adolescents,Nut and seed,Chestnut,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+883,Children / Adolescents,Nut and seed,Chestnut,Small Amount,Nut Allergy,Itchy skin and rash
+884,Children / Adolescents,Nut and seed,Chestnut,Small Amount,Nut Allergy,Wheeze or persistent cough
+885,Children / Adolescents,Nut and seed,Chestnut,Small Amount,Nut Allergy,Paleness and floppiness
+886,Children / Adolescents,Nut and seed,Chestnut,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+887,Children / Adolescents,Nut and seed,Chestnut,Large Amount,Nut Allergy,Bumps on the skin (hives)
+888,Children / Adolescents,Nut and seed,Chestnut,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+889,Children / Adolescents,Nut and seed,Chestnut,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+890,Children / Adolescents,Nut and seed,Chestnut,Large Amount,Nut Allergy,Itchy skin and rash
+891,Children / Adolescents,Nut and seed,Chestnut,Large Amount,Nut Allergy,Wheeze or persistent cough
+892,Children / Adolescents,Nut and seed,Chestnut,Large Amount,Nut Allergy,Paleness and floppiness
+893,Children / Adolescents,Nut and seed,Chestnut,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+894,Adult,Nut and seed,Chestnut,Small Amount,Nut Allergy,Bumps on the skin (hives)
+895,Adult,Nut and seed,Chestnut,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+896,Adult,Nut and seed,Chestnut,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+897,Adult,Nut and seed,Chestnut,Small Amount,Nut Allergy,Itchy skin and rash
+898,Adult,Nut and seed,Chestnut,Small Amount,Nut Allergy,Wheeze or persistent cough
+899,Adult,Nut and seed,Chestnut,Small Amount,Nut Allergy,Paleness and floppiness
+900,Adult,Nut and seed,Chestnut,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+901,Adult,Nut and seed,Chestnut,Large Amount,Nut Allergy,Bumps on the skin (hives)
+902,Adult,Nut and seed,Chestnut,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+903,Adult,Nut and seed,Chestnut,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+904,Adult,Nut and seed,Chestnut,Large Amount,Nut Allergy,Itchy skin and rash
+905,Adult,Nut and seed,Chestnut,Large Amount,Nut Allergy,Wheeze or persistent cough
+906,Adult,Nut and seed,Chestnut,Large Amount,Nut Allergy,Paleness and floppiness
+907,Adult,Nut and seed,Chestnut,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+908,Infant / Toddlers,Nut and seed,Coffee ,Small Amount,Nut Allergy,Bumps on the skin (hives)
+909,Infant / Toddlers,Nut and seed,Coffee,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+910,Infant / Toddlers,Nut and seed,Coffee,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+911,Infant / Toddlers,Nut and seed,Coffee,Small Amount,Nut Allergy,Itchy skin and rash
+912,Infant / Toddlers,Nut and seed,Coffee,Large Amount,Nut Allergy,Bumps on the skin (hives)
+913,Infant / Toddlers,Nut and seed,Coffee,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+914,Infant / Toddlers,Nut and seed,Coffee,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+915,Infant / Toddlers,Nut and seed,Coffee,Large Amount,Nut Allergy,Itchy skin and rash
+916,Infant / Toddlers,Nut and seed,Coffee,Large Amount,Nut Allergy,Wheeze or persistent cough
+917,Children / Adolescents,Nut and seed,Coffee,Small Amount,Nut Allergy,Bumps on the skin (hives)
+918,Children / Adolescents,Nut and seed,Coffee,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+919,Children / Adolescents,Nut and seed,Coffee,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+920,Children / Adolescents,Nut and seed,Coffee,Small Amount,Nut Allergy,Itchy skin and rash
+921,Children / Adolescents,Nut and seed,Coffee,Small Amount,Nut Allergy,Wheeze or persistent cough
+922,Children / Adolescents,Nut and seed,Coffee,Small Amount,Nut Allergy,Paleness and floppiness
+923,Children / Adolescents,Nut and seed,Coffee,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+924,Children / Adolescents,Nut and seed,Coffee,Large Amount,Nut Allergy,Bumps on the skin (hives)
+925,Children / Adolescents,Nut and seed,Coffee,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+926,Children / Adolescents,Nut and seed,Coffee,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+927,Children / Adolescents,Nut and seed,Coffee,Large Amount,Nut Allergy,Itchy skin and rash
+928,Children / Adolescents,Nut and seed,Coffee,Large Amount,Nut Allergy,Wheeze or persistent cough
+929,Children / Adolescents,Nut and seed,Coffee,Large Amount,Nut Allergy,Paleness and floppiness
+930,Children / Adolescents,Nut and seed,Coffee,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+931,Adult,Nut and seed,Coffee,Small Amount,Nut Allergy,Bumps on the skin (hives)
+932,Adult,Nut and seed,Coffee,Small Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+933,Adult,Nut and seed,Coffee,Small Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+934,Adult,Nut and seed,Coffee,Small Amount,Nut Allergy,Itchy skin and rash
+935,Adult,Nut and seed,Coffee,Small Amount,Nut Allergy,Wheeze or persistent cough
+936,Adult,Nut and seed,Coffee,Small Amount,Nut Allergy,Paleness and floppiness
+937,Adult,Nut and seed,Coffee,Small Amount,Nut Allergy,Difficulty talking or a hoarse voice
+938,Adult,Nut and seed,Coffee,Large Amount,Nut Allergy,Bumps on the skin (hives)
+939,Adult,Nut and seed,Coffee,Large Amount,Nut Allergy,"Swelling around the mouth, and vomiting"
+940,Adult,Nut and seed,Coffee,Large Amount,Nut Allergy,"Stomach pains, or diarrhoea"
+941,Adult,Nut and seed,Coffee,Large Amount,Nut Allergy,Itchy skin and rash
+942,Adult,Nut and seed,Coffee,Large Amount,Nut Allergy,Wheeze or persistent cough
+943,Adult,Nut and seed,Coffee,Large Amount,Nut Allergy,Paleness and floppiness
+944,Adult,Nut and seed,Coffee,Large Amount,Nut Allergy,Difficulty talking or a hoarse voice
+945,Infant / Toddlers,Poultry,Eggs,Small Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+946,Infant / Toddlers,Poultry,Eggs,Small Amount,Poultry Allergy,Skin inflammation/burning
+947,Infant / Toddlers,Poultry,Eggs,Small Amount,Poultry Allergy,Bloating
+948,Infant / Toddlers,Poultry,Eggs,Large Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+949,Infant / Toddlers,Poultry,Eggs,Large Amount,Poultry Allergy,Skin inflammation/burning
+950,Infant / Toddlers,Poultry,Eggs,Large Amount,Poultry Allergy,Bloating
+951,Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+952,Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Skin inflammation/burning
+953,Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Bloating
+954,Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Chest tightness
+955,Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Nasal congestion/runny nose
+956,Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Rapid pulse
+957,Children / Adolescents,Poultry,Eggs,Small Amount,Poultry Allergy,Loss of consciousness
+958,Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+959,Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Skin inflammation/burning
+960,Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Bloating
+961,Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Chest tightness
+962,Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Nasal congestion/runny nose
+963,Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Rapid pulse
+964,Children / Adolescents,Poultry,Eggs,Large Amount,Poultry Allergy,Loss of consciousness
+965,Adult,Poultry,Eggs,Small Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+966,Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Skin inflammation/burning
+967,Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Bloating
+968,Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Chest tightness
+969,Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Nasal congestion/runny nose
+970,Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Rapid pulse
+971,Adult,Poultry,Eggs,Small Amount,Poultry Allergy,Loss of consciousness
+972,Adult,Poultry,Eggs,Large Amount,Poultry Allergy,"Irritated, red skin, or an eczema-like rash"
+973,Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Skin inflammation/burning
+974,Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Bloating
+975,Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Chest tightness
+976,Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Nasal congestion/runny nose
+977,Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Rapid pulse
+978,Adult,Poultry,Eggs,Large Amount,Poultry Allergy,Loss of consciousness
+979,Infant / Toddlers,Meat,Chicken Broth,Small Amount,Chicken Allergy,Coughing or wheezing
+980,Infant / Toddlers,Meat,Chicken Broth,Small Amount,Chicken Allergy,"Red, irritated skin"
+981,Infant / Toddlers,Meat,Chicken Broth,Small Amount,Chicken Allergy,An inflamed or swollen throat
+982,Infant / Toddlers,Meat,Chicken Broth,Small Amount,Chicken Allergy,Swollen tongue or lips
+983,Infant / Toddlers,Meat,Chicken Broth,Small Amount,Chicken Allergy,"Swollen, watery eyes"
+984,Infant / Toddlers,Meat,Chicken Broth,Large Amount,Chicken Allergy,Coughing or wheezing
+985,Infant / Toddlers,Meat,Chicken Broth,Large Amount,Chicken Allergy,"Red, irritated skin"
+986,Infant / Toddlers,Meat,Chicken Broth,Large Amount,Chicken Allergy,An inflamed or swollen throat
+987,Infant / Toddlers,Meat,Chicken Broth,Large Amount,Chicken Allergy,Swollen tongue or lips
+988,Infant / Toddlers,Meat,Chicken Broth,Large Amount,Chicken Allergy,"Swollen, watery eyes"
+989,Children / Adolescents,Meat,Chicken Broth,Small Amount,Chicken Allergy,Coughing or wheezing
+990,Children / Adolescents,Meat,Chicken Broth,Small Amount,Chicken Allergy,"Red, irritated skin"
+991,Children / Adolescents,Meat,Chicken Broth,Small Amount,Chicken Allergy,An inflamed or swollen throat
+992,Children / Adolescents,Meat,Chicken Broth,Small Amount,Chicken Allergy,Swollen tongue or lips
+993,Children / Adolescents,Meat,Chicken Broth,Small Amount,Chicken Allergy,"Swollen, watery eyes"
+994,Children / Adolescents,Meat,Chicken Broth,Large Amount,Chicken Allergy,Coughing or wheezing
+995,Children / Adolescents,Meat,Chicken Broth,Large Amount,Chicken Allergy,"Red, irritated skin"
+996,Children / Adolescents,Meat,Chicken Broth,Large Amount,Chicken Allergy,An inflamed or swollen throat
+997,Children / Adolescents,Meat,Chicken Broth,Large Amount,Chicken Allergy,Swollen tongue or lips
+998,Children / Adolescents,Meat,Chicken Broth,Large Amount,Chicken Allergy,"Swollen, watery eyes"
+999,Adult,Meat,Chicken Broth,Small Amount,Chicken Allergy,Coughing or wheezing
+1000,Adult,Meat,Chicken Broth,Small Amount,Chicken Allergy,"Red, irritated skin"
+1001,Adult,Meat,Chicken Broth,Small Amount,Chicken Allergy,An inflamed or swollen throat
+1002,Adult,Meat,Chicken Broth,Small Amount,Chicken Allergy,Swollen tongue or lips
+1003,Adult,Meat,Chicken Broth,Small Amount,Chicken Allergy,"Swollen, watery eyes"
+1004,Adult,Meat,Chicken Broth,Large Amount,Chicken Allergy,Coughing or wheezing
+1005,Adult,Meat,Chicken Broth,Large Amount,Chicken Allergy,"Red, irritated skin"
+1006,Adult,Meat,Chicken Broth,Large Amount,Chicken Allergy,An inflamed or swollen throat
+1007,Adult,Meat,Chicken Broth,Large Amount,Chicken Allergy,Swollen tongue or lips
+1008,Adult,Meat,Chicken Broth,Large Amount,Chicken Allergy,"Swollen, watery eyes"
+1009,Infant / Toddlers,Meat,Chicken products,Small Amount,Chicken Allergy,Coughing or wheezing
+1010,Infant / Toddlers,Meat,Chicken products,Small Amount,Chicken Allergy,"Red, irritated skin"
+1011,Infant / Toddlers,Meat,Chicken products,Small Amount,Chicken Allergy,An inflamed or swollen throat
+1012,Infant / Toddlers,Meat,Chicken products,Small Amount,Chicken Allergy,Swollen tongue or lips
+1013,Infant / Toddlers,Meat,Chicken products,Small Amount,Chicken Allergy,"Swollen, watery eyes"
+1014,Infant / Toddlers,Meat,Chicken products,Large Amount,Chicken Allergy,Coughing or wheezing
+1015,Infant / Toddlers,Meat,Chicken products,Large Amount,Chicken Allergy,"Red, irritated skin"
+1016,Infant / Toddlers,Meat,Chicken products,Large Amount,Chicken Allergy,An inflamed or swollen throat
+1017,Infant / Toddlers,Meat,Chicken products,Large Amount,Chicken Allergy,Swollen tongue or lips
+1018,Infant / Toddlers,Meat,Chicken products,Large Amount,Chicken Allergy,"Swollen, watery eyes"
+1019,Children / Adolescents,Meat,Chicken products,Small Amount,Chicken Allergy,Coughing or wheezing
+1020,Children / Adolescents,Meat,Chicken products,Small Amount,Chicken Allergy,"Red, irritated skin"
+1021,Children / Adolescents,Meat,Chicken products,Small Amount,Chicken Allergy,An inflamed or swollen throat
+1022,Children / Adolescents,Meat,Chicken products,Small Amount,Chicken Allergy,Swollen tongue or lips
+1023,Children / Adolescents,Meat,Chicken products,Small Amount,Chicken Allergy,"Swollen, watery eyes"
+1024,Children / Adolescents,Meat,Chicken products,Large Amount,Chicken Allergy,Coughing or wheezing
+1025,Children / Adolescents,Meat,Chicken products,Large Amount,Chicken Allergy,"Red, irritated skin"
+1026,Children / Adolescents,Meat,Chicken products,Large Amount,Chicken Allergy,An inflamed or swollen throat
+1027,Children / Adolescents,Meat,Chicken products,Large Amount,Chicken Allergy,Swollen tongue or lips
+1028,Children / Adolescents,Meat,Chicken products,Large Amount,Chicken Allergy,"Swollen, watery eyes"
+1029,Adult,Meat,Chicken products,Small Amount,Chicken Allergy,Coughing or wheezing
+1030,Adult,Meat,Chicken products,Small Amount,Chicken Allergy,"Red, irritated skin"
+1031,Adult,Meat,Chicken products,Small Amount,Chicken Allergy,An inflamed or swollen throat
+1032,Adult,Meat,Chicken products,Small Amount,Chicken Allergy,Swollen tongue or lips
+1033,Adult,Meat,Chicken products,Small Amount,Chicken Allergy,"Swollen, watery eyes"
+1034,Adult,Meat,Chicken products,Large Amount,Chicken Allergy,Coughing or wheezing
+1035,Adult,Meat,Chicken products,Large Amount,Chicken Allergy,"Red, irritated skin"
+1036,Adult,Meat,Chicken products,Large Amount,Chicken Allergy,An inflamed or swollen throat
+1037,Adult,Meat,Chicken products,Large Amount,Chicken Allergy,Swollen tongue or lips
+1038,Adult,Meat,Chicken products,Large Amount,Chicken Allergy,"Swollen, watery eyes"
+1039,Infant / Toddlers,SeaFood,Fish,Small Amount,Histamine Allergy,Reddened Skin
+1040,Infant / Toddlers,SeaFood,Fish,Small Amount,Histamine Allergy,Raised circular weals
+1041,Infant / Toddlers,SeaFood,Fish,Large Amount,Histamine Allergy,Reddened Skin
+1042,Infant / Toddlers,SeaFood,Fish,Large Amount,Histamine Allergy,Raised circular weals
+1043,Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Reddened Skin
+1044,Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Raised circular weals
+1045,Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Itchy skin and rash
+1046,Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Indigestion
+1047,Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,"Swollen, waterly eyes"
+1048,Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Lightheadedness
+1049,Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Vomiting
+1050,Children / Adolescents,SeaFood,Fish,Small Amount,Histamine Allergy,Diarrhea
+1051,Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Reddened Skin
+1052,Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Raised circular weals
+1053,Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Itchy skin and rash
+1054,Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Indigestion
+1055,Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,"Swollen, waterly eyes"
+1056,Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Lightheadedness
+1057,Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Vomiting
+1058,Children / Adolescents,SeaFood,Fish,Large Amount,Histamine Allergy,Diarrhea
+1059,Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Reddened Skin
+1060,Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Raised circular weals
+1061,Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Itchy skin and rash
+1062,Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Indigestion
+1063,Adult,SeaFood,Fish,Small Amount,Histamine Allergy,"Swollen, waterly eyes"
+1064,Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Lightheadedness
+1065,Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Vomiting
+1066,Adult,SeaFood,Fish,Small Amount,Histamine Allergy,Diarrhea
+1067,Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Reddened Skin
+1068,Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Raised circular weals
+1069,Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Itchy skin and rash
+1070,Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Indigestion
+1071,Adult,SeaFood,Fish,Large Amount,Histamine Allergy,"Swollen, waterly eyes"
+1072,Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Lightheadedness
+1073,Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Vomiting
+1074,Adult,SeaFood,Fish,Large Amount,Histamine Allergy,Diarrhea
+1075,Infant / Toddlers,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Reddened Skin
+1076,Infant / Toddlers,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Raised circular weals
+1077,Infant / Toddlers,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Reddened Skin
+1078,Infant / Toddlers,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Raised circular weals
+1079,Children / Adolescents,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Reddened Skin
+1080,Children / Adolescents,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Raised circular weals
+1081,Children / Adolescents,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Itchy skin and rash
+1082,Children / Adolescents,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Indigestion
+1083,Children / Adolescents,SeaFood,Smoked meats,Small Amount,Histamine Allergy,"Swollen, waterly eyes"
+1084,Children / Adolescents,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Lightheadedness
+1085,Children / Adolescents,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Vomiting
+1086,Children / Adolescents,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Diarrhea
+1087,Children / Adolescents,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Reddened Skin
+1088,Children / Adolescents,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Raised circular weals
+1089,Children / Adolescents,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Itchy skin and rash
+1090,Children / Adolescents,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Indigestion
+1091,Children / Adolescents,SeaFood,Smoked meats,Large Amount,Histamine Allergy,"Swollen, waterly eyes"
+1092,Children / Adolescents,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Lightheadedness
+1093,Children / Adolescents,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Vomiting
+1094,Children / Adolescents,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Diarrhea
+1095,Adult,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Reddened Skin
+1096,Adult,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Raised circular weals
+1097,Adult,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Itchy skin and rash
+1098,Adult,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Indigestion
+1099,Adult,SeaFood,Smoked meats,Small Amount,Histamine Allergy,"Swollen, waterly eyes"
+1100,Adult,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Lightheadedness
+1101,Adult,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Vomiting
+1102,Adult,SeaFood,Smoked meats,Small Amount,Histamine Allergy,Diarrhea
+1103,Adult,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Reddened Skin
+1104,Adult,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Raised circular weals
+1105,Adult,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Itchy skin and rash
+1106,Adult,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Indigestion
+1107,Adult,SeaFood,Smoked meats,Large Amount,Histamine Allergy,"Swollen, waterly eyes"
+1108,Adult,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Lightheadedness
+1109,Adult,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Vomiting
+1110,Adult,SeaFood,Smoked meats,Large Amount,Histamine Allergy,Diarrhea
+1111,Infant / Toddlers,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Reddened Skin
+1112,Infant / Toddlers,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Raised circular weals
+1113,Infant / Toddlers,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Itchy skin and rash
+1114,Infant / Toddlers,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Indigestion
+1115,Infant / Toddlers,SeaFood,Shellfish,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1116,Infant / Toddlers,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Lightheadedness
+1117,Infant / Toddlers,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Vomiting
+1118,Infant / Toddlers,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Diarrhea
+1119,Infant / Toddlers,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Reddened Skin
+1120,Infant / Toddlers,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Raised circular weals
+1121,Infant / Toddlers,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Itchy skin and rash
+1122,Infant / Toddlers,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Indigestion
+1123,Infant / Toddlers,SeaFood,Shellfish,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1124,Infant / Toddlers,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Lightheadedness
+1125,Infant / Toddlers,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Vomiting
+1126,Infant / Toddlers,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Diarrhea
+1127,Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Reddened Skin
+1128,Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Raised circular weals
+1129,Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Itchy skin and rash
+1130,Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Indigestion
+1131,Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1132,Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Lightheadedness
+1133,Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Vomiting
+1134,Children / Adolescents,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Diarrhea
+1135,Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Reddened Skin
+1136,Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Raised circular weals
+1137,Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Itchy skin and rash
+1138,Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Indigestion
+1139,Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1140,Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Lightheadedness
+1141,Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Vomiting
+1142,Children / Adolescents,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Diarrhea
+1143,Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Reddened Skin
+1144,Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Raised circular weals
+1145,Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Itchy skin and rash
+1146,Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Indigestion
+1147,Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1148,Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Lightheadedness
+1149,Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Vomiting
+1150,Adult,SeaFood,Shellfish,Small Amount,Shellfish Allergy,Diarrhea
+1151,Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Reddened Skin
+1152,Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Raised circular weals
+1153,Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Itchy skin and rash
+1154,Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Indigestion
+1155,Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1156,Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Lightheadedness
+1157,Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Vomiting
+1158,Adult,SeaFood,Shellfish,Large Amount,Shellfish Allergy,Diarrhea
+1159,Infant / Toddlers,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Reddened Skin
+1160,Infant / Toddlers,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Raised circular weals
+1161,Infant / Toddlers,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Itchy skin and rash
+1162,Infant / Toddlers,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Indigestion
+1163,Infant / Toddlers,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1164,Infant / Toddlers,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Lightheadedness
+1165,Infant / Toddlers,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Vomiting
+1166,Infant / Toddlers,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Diarrhea
+1167,Infant / Toddlers,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Reddened Skin
+1168,Infant / Toddlers,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Raised circular weals
+1169,Infant / Toddlers,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Itchy skin and rash
+1170,Infant / Toddlers,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Indigestion
+1171,Infant / Toddlers,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1172,Infant / Toddlers,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Lightheadedness
+1173,Infant / Toddlers,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Vomiting
+1174,Infant / Toddlers,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Diarrhea
+1175,Children / Adolescents,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Reddened Skin
+1176,Children / Adolescents,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Raised circular weals
+1177,Children / Adolescents,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Itchy skin and rash
+1178,Children / Adolescents,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Indigestion
+1179,Children / Adolescents,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1180,Children / Adolescents,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Lightheadedness
+1181,Children / Adolescents,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Vomiting
+1182,Children / Adolescents,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Diarrhea
+1183,Children / Adolescents,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Reddened Skin
+1184,Children / Adolescents,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Raised circular weals
+1185,Children / Adolescents,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Itchy skin and rash
+1186,Children / Adolescents,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Indigestion
+1187,Children / Adolescents,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1188,Children / Adolescents,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Lightheadedness
+1189,Children / Adolescents,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Vomiting
+1190,Children / Adolescents,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Diarrhea
+1191,Adult,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Reddened Skin
+1192,Adult,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Raised circular weals
+1193,Adult,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Itchy skin and rash
+1194,Adult,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Indigestion
+1195,Adult,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1196,Adult,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Lightheadedness
+1197,Adult,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Vomiting
+1198,Adult,SeaFood,Cuttlefish,Small Amount,Shellfish Allergy,Diarrhea
+1199,Adult,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Reddened Skin
+1200,Adult,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Raised circular weals
+1201,Adult,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Itchy skin and rash
+1202,Adult,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Indigestion
+1203,Adult,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1204,Adult,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Lightheadedness
+1205,Adult,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Vomiting
+1206,Adult,SeaFood,Cuttlefish,Large Amount,Shellfish Allergy,Diarrhea
+1207,Infant / Toddlers,SeaFood,Prawns,Small Amount,Shellfish Allergy,Reddened Skin
+1208,Infant / Toddlers,SeaFood,Prawns,Small Amount,Shellfish Allergy,Raised circular weals
+1209,Infant / Toddlers,SeaFood,Prawns,Small Amount,Shellfish Allergy,Itchy skin and rash
+1210,Infant / Toddlers,SeaFood,Prawns,Small Amount,Shellfish Allergy,Indigestion
+1211,Infant / Toddlers,SeaFood,Prawns,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1212,Infant / Toddlers,SeaFood,Prawns,Small Amount,Shellfish Allergy,Lightheadedness
+1213,Infant / Toddlers,SeaFood,Prawns,Small Amount,Shellfish Allergy,Vomiting
+1214,Infant / Toddlers,SeaFood,Prawns,Small Amount,Shellfish Allergy,Diarrhea
+1215,Infant / Toddlers,SeaFood,Prawns,Large Amount,Shellfish Allergy,Reddened Skin
+1216,Infant / Toddlers,SeaFood,Prawns,Large Amount,Shellfish Allergy,Raised circular weals
+1217,Infant / Toddlers,SeaFood,Prawns,Large Amount,Shellfish Allergy,Itchy skin and rash
+1218,Infant / Toddlers,SeaFood,Prawns,Large Amount,Shellfish Allergy,Indigestion
+1219,Infant / Toddlers,SeaFood,Prawns,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1220,Infant / Toddlers,SeaFood,Prawns,Large Amount,Shellfish Allergy,Lightheadedness
+1221,Infant / Toddlers,SeaFood,Prawns,Large Amount,Shellfish Allergy,Vomiting
+1222,Infant / Toddlers,SeaFood,Prawns,Large Amount,Shellfish Allergy,Diarrhea
+1223,Children / Adolescents,SeaFood,Prawns,Small Amount,Shellfish Allergy,Reddened Skin
+1224,Children / Adolescents,SeaFood,Prawns,Small Amount,Shellfish Allergy,Raised circular weals
+1225,Children / Adolescents,SeaFood,Prawns,Small Amount,Shellfish Allergy,Itchy skin and rash
+1226,Children / Adolescents,SeaFood,Prawns,Small Amount,Shellfish Allergy,Indigestion
+1227,Children / Adolescents,SeaFood,Prawns,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1228,Children / Adolescents,SeaFood,Prawns,Small Amount,Shellfish Allergy,Lightheadedness
+1229,Children / Adolescents,SeaFood,Prawns,Small Amount,Shellfish Allergy,Vomiting
+1230,Children / Adolescents,SeaFood,Prawns,Small Amount,Shellfish Allergy,Diarrhea
+1231,Children / Adolescents,SeaFood,Prawns,Large Amount,Shellfish Allergy,Reddened Skin
+1232,Children / Adolescents,SeaFood,Prawns,Large Amount,Shellfish Allergy,Raised circular weals
+1233,Children / Adolescents,SeaFood,Prawns,Large Amount,Shellfish Allergy,Itchy skin and rash
+1234,Children / Adolescents,SeaFood,Prawns,Large Amount,Shellfish Allergy,Indigestion
+1235,Children / Adolescents,SeaFood,Prawns,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1236,Children / Adolescents,SeaFood,Prawns,Large Amount,Shellfish Allergy,Lightheadedness
+1237,Children / Adolescents,SeaFood,Prawns,Large Amount,Shellfish Allergy,Vomiting
+1238,Children / Adolescents,SeaFood,Prawns,Large Amount,Shellfish Allergy,Diarrhea
+1239,Adult,SeaFood,Prawns,Small Amount,Shellfish Allergy,Reddened Skin
+1240,Adult,SeaFood,Prawns,Small Amount,Shellfish Allergy,Raised circular weals
+1241,Adult,SeaFood,Prawns,Small Amount,Shellfish Allergy,Itchy skin and rash
+1242,Adult,SeaFood,Prawns,Small Amount,Shellfish Allergy,Indigestion
+1243,Adult,SeaFood,Prawns,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1244,Adult,SeaFood,Prawns,Small Amount,Shellfish Allergy,Lightheadedness
+1245,Adult,SeaFood,Prawns,Small Amount,Shellfish Allergy,Vomiting
+1246,Adult,SeaFood,Prawns,Small Amount,Shellfish Allergy,Diarrhea
+1247,Adult,SeaFood,Prawns,Large Amount,Shellfish Allergy,Reddened Skin
+1248,Adult,SeaFood,Prawns,Large Amount,Shellfish Allergy,Raised circular weals
+1249,Adult,SeaFood,Prawns,Large Amount,Shellfish Allergy,Itchy skin and rash
+1250,Adult,SeaFood,Prawns,Large Amount,Shellfish Allergy,Indigestion
+1251,Adult,SeaFood,Prawns,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1252,Adult,SeaFood,Prawns,Large Amount,Shellfish Allergy,Lightheadedness
+1253,Adult,SeaFood,Prawns,Large Amount,Shellfish Allergy,Vomiting
+1254,Adult,SeaFood,Prawns,Large Amount,Shellfish Allergy,Diarrhea
+1255,Infant / Toddlers,SeaFood,Crabs,Small Amount,Shellfish Allergy,Reddened Skin
+1256,Infant / Toddlers,SeaFood,Crabs,Small Amount,Shellfish Allergy,Raised circular weals
+1257,Infant / Toddlers,SeaFood,Crabs,Small Amount,Shellfish Allergy,Itchy skin and rash
+1258,Infant / Toddlers,SeaFood,Crabs,Small Amount,Shellfish Allergy,Indigestion
+1259,Infant / Toddlers,SeaFood,Crabs,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1260,Infant / Toddlers,SeaFood,Crabs,Small Amount,Shellfish Allergy,Lightheadedness
+1261,Infant / Toddlers,SeaFood,Crabs,Small Amount,Shellfish Allergy,Vomiting
+1262,Infant / Toddlers,SeaFood,Crabs,Small Amount,Shellfish Allergy,Diarrhea
+1263,Infant / Toddlers,SeaFood,Crabs,Large Amount,Shellfish Allergy,Reddened Skin
+1264,Infant / Toddlers,SeaFood,Crabs,Large Amount,Shellfish Allergy,Raised circular weals
+1265,Infant / Toddlers,SeaFood,Crabs,Large Amount,Shellfish Allergy,Itchy skin and rash
+1266,Infant / Toddlers,SeaFood,Crabs,Large Amount,Shellfish Allergy,Indigestion
+1267,Infant / Toddlers,SeaFood,Crabs,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1268,Infant / Toddlers,SeaFood,Crabs,Large Amount,Shellfish Allergy,Lightheadedness
+1269,Infant / Toddlers,SeaFood,Crabs,Large Amount,Shellfish Allergy,Vomiting
+1270,Infant / Toddlers,SeaFood,Crabs,Large Amount,Shellfish Allergy,Diarrhea
+1271,Children / Adolescents,SeaFood,Crabs,Small Amount,Shellfish Allergy,Reddened Skin
+1272,Children / Adolescents,SeaFood,Crabs,Small Amount,Shellfish Allergy,Raised circular weals
+1273,Children / Adolescents,SeaFood,Crabs,Small Amount,Shellfish Allergy,Itchy skin and rash
+1274,Children / Adolescents,SeaFood,Crabs,Small Amount,Shellfish Allergy,Indigestion
+1275,Children / Adolescents,SeaFood,Crabs,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1276,Children / Adolescents,SeaFood,Crabs,Small Amount,Shellfish Allergy,Lightheadedness
+1277,Children / Adolescents,SeaFood,Crabs,Small Amount,Shellfish Allergy,Vomiting
+1278,Children / Adolescents,SeaFood,Crabs,Small Amount,Shellfish Allergy,Diarrhea
+1279,Children / Adolescents,SeaFood,Crabs,Large Amount,Shellfish Allergy,Reddened Skin
+1280,Children / Adolescents,SeaFood,Crabs,Large Amount,Shellfish Allergy,Raised circular weals
+1281,Children / Adolescents,SeaFood,Crabs,Large Amount,Shellfish Allergy,Itchy skin and rash
+1282,Children / Adolescents,SeaFood,Crabs,Large Amount,Shellfish Allergy,Indigestion
+1283,Children / Adolescents,SeaFood,Crabs,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1284,Children / Adolescents,SeaFood,Crabs,Large Amount,Shellfish Allergy,Lightheadedness
+1285,Children / Adolescents,SeaFood,Crabs,Large Amount,Shellfish Allergy,Vomiting
+1286,Children / Adolescents,SeaFood,Crabs,Large Amount,Shellfish Allergy,Diarrhea
+1287,Adult,SeaFood,Crabs,Small Amount,Shellfish Allergy,Reddened Skin
+1288,Adult,SeaFood,Crabs,Small Amount,Shellfish Allergy,Raised circular weals
+1289,Adult,SeaFood,Crabs,Small Amount,Shellfish Allergy,Itchy skin and rash
+1290,Adult,SeaFood,Crabs,Small Amount,Shellfish Allergy,Indigestion
+1291,Adult,SeaFood,Crabs,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1292,Adult,SeaFood,Crabs,Small Amount,Shellfish Allergy,Lightheadedness
+1293,Adult,SeaFood,Crabs,Small Amount,Shellfish Allergy,Vomiting
+1294,Adult,SeaFood,Crabs,Small Amount,Shellfish Allergy,Diarrhea
+1295,Adult,SeaFood,Crabs,Large Amount,Shellfish Allergy,Reddened Skin
+1296,Adult,SeaFood,Crabs,Large Amount,Shellfish Allergy,Raised circular weals
+1297,Adult,SeaFood,Crabs,Large Amount,Shellfish Allergy,Itchy skin and rash
+1298,Adult,SeaFood,Crabs,Large Amount,Shellfish Allergy,Indigestion
+1299,Adult,SeaFood,Crabs,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1300,Adult,SeaFood,Crabs,Large Amount,Shellfish Allergy,Lightheadedness
+1301,Adult,SeaFood,Crabs,Large Amount,Shellfish Allergy,Vomiting
+1302,Adult,SeaFood,Crabs,Large Amount,Shellfish Allergy,Diarrhea
+1303,Infant / Toddlers,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Reddened Skin
+1304,Infant / Toddlers,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Raised circular weals
+1305,Infant / Toddlers,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Itchy skin and rash
+1306,Infant / Toddlers,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Indigestion
+1307,Infant / Toddlers,SeaFood,Mollusks,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1308,Infant / Toddlers,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Lightheadedness
+1309,Infant / Toddlers,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Vomiting
+1310,Infant / Toddlers,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Diarrhea
+1311,Infant / Toddlers,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Reddened Skin
+1312,Infant / Toddlers,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Raised circular weals
+1313,Infant / Toddlers,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Itchy skin and rash
+1314,Infant / Toddlers,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Indigestion
+1315,Infant / Toddlers,SeaFood,Mollusks,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1316,Infant / Toddlers,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Lightheadedness
+1317,Infant / Toddlers,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Vomiting
+1318,Infant / Toddlers,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Diarrhea
+1319,Children / Adolescents,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Reddened Skin
+1320,Children / Adolescents,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Raised circular weals
+1321,Children / Adolescents,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Itchy skin and rash
+1322,Children / Adolescents,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Indigestion
+1323,Children / Adolescents,SeaFood,Mollusks,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1324,Children / Adolescents,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Lightheadedness
+1325,Children / Adolescents,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Vomiting
+1326,Children / Adolescents,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Diarrhea
+1327,Children / Adolescents,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Reddened Skin
+1328,Children / Adolescents,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Raised circular weals
+1329,Children / Adolescents,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Itchy skin and rash
+1330,Children / Adolescents,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Indigestion
+1331,Children / Adolescents,SeaFood,Mollusks,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1332,Children / Adolescents,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Lightheadedness
+1333,Children / Adolescents,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Vomiting
+1334,Children / Adolescents,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Diarrhea
+1335,Adult,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Reddened Skin
+1336,Adult,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Raised circular weals
+1337,Adult,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Itchy skin and rash
+1338,Adult,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Indigestion
+1339,Adult,SeaFood,Mollusks,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1340,Adult,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Lightheadedness
+1341,Adult,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Vomiting
+1342,Adult,SeaFood,Mollusks,Small Amount,Shellfish Allergy,Diarrhea
+1343,Adult,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Reddened Skin
+1344,Adult,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Raised circular weals
+1345,Adult,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Itchy skin and rash
+1346,Adult,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Indigestion
+1347,Adult,SeaFood,Mollusks,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1348,Adult,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Lightheadedness
+1349,Adult,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Vomiting
+1350,Adult,SeaFood,Mollusks,Large Amount,Shellfish Allergy,Diarrhea
+1351,Infant / Toddlers,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Reddened Skin
+1352,Infant / Toddlers,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Raised circular weals
+1353,Infant / Toddlers,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Itchy skin and rash
+1354,Infant / Toddlers,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Indigestion
+1355,Infant / Toddlers,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1356,Infant / Toddlers,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Lightheadedness
+1357,Infant / Toddlers,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Vomiting
+1358,Infant / Toddlers,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Diarrhea
+1359,Infant / Toddlers,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Reddened Skin
+1360,Infant / Toddlers,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Raised circular weals
+1361,Infant / Toddlers,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Itchy skin and rash
+1362,Infant / Toddlers,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Indigestion
+1363,Infant / Toddlers,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1364,Infant / Toddlers,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Lightheadedness
+1365,Infant / Toddlers,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Vomiting
+1366,Infant / Toddlers,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Diarrhea
+1367,Children / Adolescents,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Reddened Skin
+1368,Children / Adolescents,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Raised circular weals
+1369,Children / Adolescents,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Itchy skin and rash
+1370,Children / Adolescents,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Indigestion
+1371,Children / Adolescents,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1372,Children / Adolescents,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Lightheadedness
+1373,Children / Adolescents,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Vomiting
+1374,Children / Adolescents,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Diarrhea
+1375,Children / Adolescents,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Reddened Skin
+1376,Children / Adolescents,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Raised circular weals
+1377,Children / Adolescents,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Itchy skin and rash
+1378,Children / Adolescents,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Indigestion
+1379,Children / Adolescents,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1380,Children / Adolescents,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Lightheadedness
+1381,Children / Adolescents,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Vomiting
+1382,Children / Adolescents,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Diarrhea
+1383,Adult,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Reddened Skin
+1384,Adult,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Raised circular weals
+1385,Adult,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Itchy skin and rash
+1386,Adult,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Indigestion
+1387,Adult,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1388,Adult,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Lightheadedness
+1389,Adult,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Vomiting
+1390,Adult,SeaFood,Crustaceans ,Small Amount,Shellfish Allergy,Diarrhea
+1391,Adult,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Reddened Skin
+1392,Adult,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Raised circular weals
+1393,Adult,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Itchy skin and rash
+1394,Adult,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Indigestion
+1395,Adult,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,"Swollen, waterly eyes"
+1396,Adult,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Lightheadedness
+1397,Adult,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Vomiting
+1398,Adult,SeaFood,Crustaceans ,Large Amount,Shellfish Allergy,Diarrhea
+1399,Infant / Toddlers,Vegetable,Mushroom,Small Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+1400,Infant / Toddlers,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Cramping and bloating
+1401,Infant / Toddlers,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Difficulty in breathing
+1402,Infant / Toddlers,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Runny nose and watery eyes
+1403,Infant / Toddlers,Vegetable,Mushroom,Large Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+1404,Infant / Toddlers,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Cramping and bloating
+1405,Infant / Toddlers,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Difficulty in breathing
+1406,Infant / Toddlers,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Runny nose and watery eyes
+1407,Children / Adolescents,Vegetable,Mushroom,Small Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+1408,Children / Adolescents,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Cramping and bloating
+1409,Children / Adolescents,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Difficulty in breathing
+1410,Children / Adolescents,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Runny nose and watery eyes
+1411,Children / Adolescents,Vegetable,Mushroom,Large Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+1412,Children / Adolescents,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Cramping and bloating
+1413,Children / Adolescents,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Difficulty in breathing
+1414,Children / Adolescents,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Runny nose and watery eyes
+1415,Adult,Vegetable,Mushroom,Small Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+1416,Adult,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Cramping and bloating
+1417,Adult,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Difficulty in breathing
+1418,Adult,Vegetable,Mushroom,Small Amount,Mushroom Allergy,Runny nose and watery eyes
+1419,Adult,Vegetable,Mushroom,Large Amount,Mushroom Allergy,"Skin irritation, hives and rashes"
+1420,Adult,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Cramping and bloating
+1421,Adult,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Difficulty in breathing
+1422,Adult,Vegetable,Mushroom,Large Amount,Mushroom Allergy,Runny nose and watery eyes
+1423,Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Swelling
+1424,Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Tingling
+1425,Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Nausea
+1426,Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Vomiting
+1427,Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Diarrhea
+1428,Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Wheezing
+1429,Infant / Toddlers,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Coughing
+1430,Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Swelling
+1431,Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Tingling
+1432,Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Nausea
+1433,Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Vomiting
+1434,Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Diarrhea
+1435,Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Wheezing
+1436,Infant / Toddlers,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Coughing
+1437,Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Swelling
+1438,Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Tingling
+1439,Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Nausea
+1440,Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Vomiting
+1441,Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Diarrhea
+1442,Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Wheezing
+1443,Children / Adolescents,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Coughing
+1444,Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Swelling
+1445,Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Tingling
+1446,Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Nausea
+1447,Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Vomiting
+1448,Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Diarrhea
+1449,Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Wheezing
+1450,Children / Adolescents,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Coughing
+1451,Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Swelling
+1452,Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Tingling
+1453,Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Nausea
+1454,Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Vomiting
+1455,Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Diarrhea
+1456,Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Wheezing
+1457,Adult,Vegetable,Cabbage,Small Amount,Cabbage Allergy,Coughing
+1458,Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Swelling
+1459,Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Tingling
+1460,Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Nausea
+1461,Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Vomiting
+1462,Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Diarrhea
+1463,Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Wheezing
+1464,Adult,Vegetable,Cabbage,Large Amount,Cabbage Allergy,Coughing
+1465,Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+1466,Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Tingling or itching in the mouth
+1467,Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Stomach pains
+1468,Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Cramping
+1469,Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Gas
+1470,Infant / Toddlers,Vegetable,Garlic,Small Amount,Allium Allergy,Dizziness or lightheadedness
+1471,Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+1472,Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Tingling or itching in the mouth
+1473,Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Stomach pains
+1474,Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Cramping
+1475,Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Gas
+1476,Infant / Toddlers,Vegetable,Garlic,Large Amount,Allium Allergy,Dizziness or lightheadedness
+1477,Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+1478,Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Tingling or itching in the mouth
+1479,Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Stomach pains
+1480,Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Cramping
+1481,Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Gas
+1482,Children / Adolescents,Vegetable,Garlic,Small Amount,Allium Allergy,Dizziness or lightheadedness
+1483,Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+1484,Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Tingling or itching in the mouth
+1485,Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Stomach pains
+1486,Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Cramping
+1487,Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Gas
+1488,Children / Adolescents,Vegetable,Garlic,Large Amount,Allium Allergy,Dizziness or lightheadedness
+1489,Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+1490,Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Tingling or itching in the mouth
+1491,Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Stomach pains
+1492,Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Cramping
+1493,Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Gas
+1494,Adult,Vegetable,Garlic,Small Amount,Allium Allergy,Dizziness or lightheadedness
+1495,Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+1496,Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Tingling or itching in the mouth
+1497,Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Stomach pains
+1498,Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Cramping
+1499,Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Gas
+1500,Adult,Vegetable,Garlic,Large Amount,Allium Allergy,Dizziness or lightheadedness
+1501,Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+1502,Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Tingling or itching in the mouth
+1503,Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Stomach pains
+1504,Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Cramping
+1505,Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Gas
+1506,Infant / Toddlers,Vegetable,Onion,Small Amount,Allium Allergy,Dizziness or lightheadedness
+1507,Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+1508,Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Tingling or itching in the mouth
+1509,Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Stomach pains
+1510,Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Cramping
+1511,Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Gas
+1512,Infant / Toddlers,Vegetable,Onion,Large Amount,Allium Allergy,Dizziness or lightheadedness
+1513,Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+1514,Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Tingling or itching in the mouth
+1515,Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Stomach pains
+1516,Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Cramping
+1517,Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Gas
+1518,Children / Adolescents,Vegetable,Onion,Small Amount,Allium Allergy,Dizziness or lightheadedness
+1519,Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+1520,Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Tingling or itching in the mouth
+1521,Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Stomach pains
+1522,Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Cramping
+1523,Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Gas
+1524,Children / Adolescents,Vegetable,Onion,Large Amount,Allium Allergy,Dizziness or lightheadedness
+1525,Adult,Vegetable,Onion,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+1526,Adult,Vegetable,Onion,Small Amount,Allium Allergy,Tingling or itching in the mouth
+1527,Adult,Vegetable,Onion,Small Amount,Allium Allergy,Stomach pains
+1528,Adult,Vegetable,Onion,Small Amount,Allium Allergy,Cramping
+1529,Adult,Vegetable,Onion,Small Amount,Allium Allergy,Gas
+1530,Adult,Vegetable,Onion,Small Amount,Allium Allergy,Dizziness or lightheadedness
+1531,Adult,Vegetable,Onion,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+1532,Adult,Vegetable,Onion,Large Amount,Allium Allergy,Tingling or itching in the mouth
+1533,Adult,Vegetable,Onion,Large Amount,Allium Allergy,Stomach pains
+1534,Adult,Vegetable,Onion,Large Amount,Allium Allergy,Cramping
+1535,Adult,Vegetable,Onion,Large Amount,Allium Allergy,Gas
+1536,Adult,Vegetable,Onion,Large Amount,Allium Allergy,Dizziness or lightheadedness
+1537,Infant / Toddlers,Vegetable,Leeks,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+1538,Infant / Toddlers,Vegetable,Leeks,Small Amount,Allium Allergy,Tingling or itching in the mouth
+1539,Infant / Toddlers,Vegetable,Leeks,Small Amount,Allium Allergy,Stomach pains
+1540,Infant / Toddlers,Vegetable,Leeks,Small Amount,Allium Allergy,Cramping
+1541,Infant / Toddlers,Vegetable,Leeks,Small Amount,Allium Allergy,Gas
+1542,Infant / Toddlers,Vegetable,Leeks,Small Amount,Allium Allergy,Dizziness or lightheadedness
+1543,Infant / Toddlers,Vegetable,Leeks,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+1544,Infant / Toddlers,Vegetable,Leeks,Large Amount,Allium Allergy,Tingling or itching in the mouth
+1545,Infant / Toddlers,Vegetable,Leeks,Large Amount,Allium Allergy,Stomach pains
+1546,Infant / Toddlers,Vegetable,Leeks,Large Amount,Allium Allergy,Cramping
+1547,Infant / Toddlers,Vegetable,Leeks,Large Amount,Allium Allergy,Gas
+1548,Infant / Toddlers,Vegetable,Leeks,Large Amount,Allium Allergy,Dizziness or lightheadedness
+1549,Children / Adolescents,Vegetable,Leeks,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+1550,Children / Adolescents,Vegetable,Leeks,Small Amount,Allium Allergy,Tingling or itching in the mouth
+1551,Children / Adolescents,Vegetable,Leeks,Small Amount,Allium Allergy,Stomach pains
+1552,Children / Adolescents,Vegetable,Leeks,Small Amount,Allium Allergy,Cramping
+1553,Children / Adolescents,Vegetable,Leeks,Small Amount,Allium Allergy,Gas
+1554,Children / Adolescents,Vegetable,Leeks,Small Amount,Allium Allergy,Dizziness or lightheadedness
+1555,Children / Adolescents,Vegetable,Leeks,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+1556,Children / Adolescents,Vegetable,Leeks,Large Amount,Allium Allergy,Tingling or itching in the mouth
+1557,Children / Adolescents,Vegetable,Leeks,Large Amount,Allium Allergy,Stomach pains
+1558,Children / Adolescents,Vegetable,Leeks,Large Amount,Allium Allergy,Cramping
+1559,Children / Adolescents,Vegetable,Leeks,Large Amount,Allium Allergy,Gas
+1560,Children / Adolescents,Vegetable,Leeks,Large Amount,Allium Allergy,Dizziness or lightheadedness
+1561,Adult,Vegetable,Leeks,Small Amount,Allium Allergy,Hives or a rash anywhere on the body
+1562,Adult,Vegetable,Leeks,Small Amount,Allium Allergy,Tingling or itching in the mouth
+1563,Adult,Vegetable,Leeks,Small Amount,Allium Allergy,Stomach pains
+1564,Adult,Vegetable,Leeks,Small Amount,Allium Allergy,Cramping
+1565,Adult,Vegetable,Leeks,Small Amount,Allium Allergy,Gas
+1566,Adult,Vegetable,Leeks,Small Amount,Allium Allergy,Dizziness or lightheadedness
+1567,Adult,Vegetable,Leeks,Large Amount,Allium Allergy,Hives or a rash anywhere on the body
+1568,Adult,Vegetable,Leeks,Large Amount,Allium Allergy,Tingling or itching in the mouth
+1569,Adult,Vegetable,Leeks,Large Amount,Allium Allergy,Stomach pains
+1570,Adult,Vegetable,Leeks,Large Amount,Allium Allergy,Cramping
+1571,Adult,Vegetable,Leeks,Large Amount,Allium Allergy,Gas
+1572,Adult,Vegetable,Leeks,Large Amount,Allium Allergy,Dizziness or lightheadedness
+1573,Infant / Toddlers,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Stuffy nose
+1574,Infant / Toddlers,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1575,Infant / Toddlers,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1576,Infant / Toddlers,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1577,Infant / Toddlers,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1578,Infant / Toddlers,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Tissue swelling
+1579,Infant / Toddlers,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Stuffy nose
+1580,Infant / Toddlers,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1581,Infant / Toddlers,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1582,Infant / Toddlers,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1583,Infant / Toddlers,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1584,Infant / Toddlers,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Tissue swelling
+1585,Children / Adolescents,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Stuffy nose
+1586,Children / Adolescents,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1587,Children / Adolescents,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1588,Children / Adolescents,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1589,Children / Adolescents,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1590,Children / Adolescents,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Tissue swelling
+1591,Children / Adolescents,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Stuffy nose
+1592,Children / Adolescents,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1593,Children / Adolescents,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1594,Children / Adolescents,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1595,Children / Adolescents,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1596,Children / Adolescents,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Tissue swelling
+1597,Adult,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Stuffy nose
+1598,Adult,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1599,Adult,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1600,Adult,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1601,Adult,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1602,Adult,Vegetable,Cucumber,Small Amount,Salicylate Allergy,Tissue swelling
+1603,Adult,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Stuffy nose
+1604,Adult,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1605,Adult,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1606,Adult,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1607,Adult,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1608,Adult,Vegetable,Cucumber,Large Amount,Salicylate Allergy,Tissue swelling
+1609,Infant / Toddlers,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Stuffy nose
+1610,Infant / Toddlers,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1611,Infant / Toddlers,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1612,Infant / Toddlers,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1613,Infant / Toddlers,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1614,Infant / Toddlers,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Tissue swelling
+1615,Infant / Toddlers,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Stuffy nose
+1616,Infant / Toddlers,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1617,Infant / Toddlers,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1618,Infant / Toddlers,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1619,Infant / Toddlers,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1620,Infant / Toddlers,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Tissue swelling
+1621,Children / Adolescents,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Stuffy nose
+1622,Children / Adolescents,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1623,Children / Adolescents,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1624,Children / Adolescents,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1625,Children / Adolescents,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1626,Children / Adolescents,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Tissue swelling
+1627,Children / Adolescents,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Stuffy nose
+1628,Children / Adolescents,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1629,Children / Adolescents,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1630,Children / Adolescents,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1631,Children / Adolescents,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1632,Children / Adolescents,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Tissue swelling
+1633,Adult,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Stuffy nose
+1634,Adult,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1635,Adult,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1636,Adult,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1637,Adult,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1638,Adult,Vegetable,Egg plant,Small Amount,Salicylate Allergy,Tissue swelling
+1639,Adult,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Stuffy nose
+1640,Adult,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1641,Adult,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1642,Adult,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1643,Adult,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1644,Adult,Vegetable,Egg plant,Large Amount,Salicylate Allergy,Tissue swelling
+1645,Infant / Toddlers,Vegetable,Peppers,Small Amount,Salicylate Allergy,Stuffy nose
+1646,Infant / Toddlers,Vegetable,Peppers,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1647,Infant / Toddlers,Vegetable,Peppers,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1648,Infant / Toddlers,Vegetable,Peppers,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1649,Infant / Toddlers,Vegetable,Peppers,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1650,Infant / Toddlers,Vegetable,Peppers,Small Amount,Salicylate Allergy,Tissue swelling
+1651,Infant / Toddlers,Vegetable,Peppers,Large Amount,Salicylate Allergy,Stuffy nose
+1652,Infant / Toddlers,Vegetable,Peppers,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1653,Infant / Toddlers,Vegetable,Peppers,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1654,Infant / Toddlers,Vegetable,Peppers,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1655,Infant / Toddlers,Vegetable,Peppers,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1656,Infant / Toddlers,Vegetable,Peppers,Large Amount,Salicylate Allergy,Tissue swelling
+1657,Children / Adolescents,Vegetable,Peppers,Small Amount,Salicylate Allergy,Stuffy nose
+1658,Children / Adolescents,Vegetable,Peppers,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1659,Children / Adolescents,Vegetable,Peppers,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1660,Children / Adolescents,Vegetable,Peppers,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1661,Children / Adolescents,Vegetable,Peppers,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1662,Children / Adolescents,Vegetable,Peppers,Small Amount,Salicylate Allergy,Tissue swelling
+1663,Children / Adolescents,Vegetable,Peppers,Large Amount,Salicylate Allergy,Stuffy nose
+1664,Children / Adolescents,Vegetable,Peppers,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1665,Children / Adolescents,Vegetable,Peppers,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1666,Children / Adolescents,Vegetable,Peppers,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1667,Children / Adolescents,Vegetable,Peppers,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1668,Children / Adolescents,Vegetable,Peppers,Large Amount,Salicylate Allergy,Tissue swelling
+1669,Adult,Vegetable,Peppers,Small Amount,Salicylate Allergy,Stuffy nose
+1670,Adult,Vegetable,Peppers,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1671,Adult,Vegetable,Peppers,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1672,Adult,Vegetable,Peppers,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1673,Adult,Vegetable,Peppers,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1674,Adult,Vegetable,Peppers,Small Amount,Salicylate Allergy,Tissue swelling
+1675,Adult,Vegetable,Peppers,Large Amount,Salicylate Allergy,Stuffy nose
+1676,Adult,Vegetable,Peppers,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1677,Adult,Vegetable,Peppers,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1678,Adult,Vegetable,Peppers,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1679,Adult,Vegetable,Peppers,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1680,Adult,Vegetable,Peppers,Large Amount,Salicylate Allergy,Tissue swelling
+1681,Infant / Toddlers,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Stuffy nose
+1682,Infant / Toddlers,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1683,Infant / Toddlers,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1684,Infant / Toddlers,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1685,Infant / Toddlers,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1686,Infant / Toddlers,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Tissue swelling
+1687,Infant / Toddlers,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Stuffy nose
+1688,Infant / Toddlers,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1689,Infant / Toddlers,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1690,Infant / Toddlers,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1691,Infant / Toddlers,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1692,Infant / Toddlers,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Tissue swelling
+1693,Children / Adolescents,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Stuffy nose
+1694,Children / Adolescents,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1695,Children / Adolescents,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1696,Children / Adolescents,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1697,Children / Adolescents,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1698,Children / Adolescents,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Tissue swelling
+1699,Children / Adolescents,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Stuffy nose
+1700,Children / Adolescents,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1701,Children / Adolescents,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1702,Children / Adolescents,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1703,Children / Adolescents,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1704,Children / Adolescents,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Tissue swelling
+1705,Adult,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Stuffy nose
+1706,Adult,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Sinus infection and inflammation
+1707,Adult,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Nasal and sinus polyps
+1708,Adult,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Gas or Diarrhea
+1709,Adult,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Gut inflammation (colitis)
+1710,Adult,Vegetable,Cauliflower,Small Amount,Salicylate Allergy,Tissue swelling
+1711,Adult,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Stuffy nose
+1712,Adult,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Sinus infection and inflammation
+1713,Adult,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Nasal and sinus polyps
+1714,Adult,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Gas or Diarrhea
+1715,Adult,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Gut inflammation (colitis)
+1716,Adult,Vegetable,Cauliflower,Large Amount,Salicylate Allergy,Tissue swelling
+1717,Infant / Toddlers,Vegetable,Potato,Small Amount,Potato Allergy,Tingling sensation on your lips
+1718,Infant / Toddlers,Vegetable,Potato,Small Amount,Potato Allergy,Sneezing and Runny nose
+1719,Infant / Toddlers,Vegetable,Potato,Small Amount,Potato Allergy,A little drop in blood pressure
+1720,Infant / Toddlers,Vegetable,Potato,Large Amount,Potato Allergy,Tingling sensation on your lips
+1721,Infant / Toddlers,Vegetable,Potato,Large Amount,Potato Allergy,Sneezing and Runny nose
+1722,Infant / Toddlers,Vegetable,Potato,Large Amount,Potato Allergy,A little drop in blood pressure
+1723,Children / Adolescents,Vegetable,Potato,Small Amount,Potato Allergy,Tingling sensation on your lips
+1724,Children / Adolescents,Vegetable,Potato,Small Amount,Potato Allergy,Sneezing and Runny nose
+1725,Children / Adolescents,Vegetable,Potato,Small Amount,Potato Allergy,A little drop in blood pressure
+1726,Children / Adolescents,Vegetable,Potato,Large Amount,Potato Allergy,Tingling sensation on your lips
+1727,Children / Adolescents,Vegetable,Potato,Large Amount,Potato Allergy,Sneezing and Runny nose
+1728,Children / Adolescents,Vegetable,Potato,Large Amount,Potato Allergy,A little drop in blood pressure
+1729,Adult,Vegetable,Potato,Small Amount,Potato Allergy,Tingling sensation on your lips
+1730,Adult,Vegetable,Potato,Small Amount,Potato Allergy,Sneezing and Runny nose
+1731,Adult,Vegetable,Potato,Small Amount,Potato Allergy,A little drop in blood pressure
+1732,Adult,Vegetable,Potato,Large Amount,Potato Allergy,Tingling sensation on your lips
+1733,Adult,Vegetable,Potato,Large Amount,Potato Allergy,Sneezing and Runny nose
+1734,Adult,Vegetable,Potato,Large Amount,Potato Allergy,A little drop in blood pressure
+1735,Infant / Toddlers,Vegetable,Sweet potato,Small Amount,Potato Allergy,Tingling sensation on your lips
+1736,Infant / Toddlers,Vegetable,Sweet potato,Small Amount,Potato Allergy,Sneezing and Runny nose
+1737,Infant / Toddlers,Vegetable,Sweet potato,Small Amount,Potato Allergy,A little drop in blood pressure
+1738,Infant / Toddlers,Vegetable,Sweet potato,Large Amount,Potato Allergy,Tingling sensation on your lips
+1739,Infant / Toddlers,Vegetable,Sweet potato,Large Amount,Potato Allergy,Sneezing and Runny nose
+1740,Infant / Toddlers,Vegetable,Sweet potato,Large Amount,Potato Allergy,A little drop in blood pressure
+1741,Children / Adolescents,Vegetable,Sweet potato,Small Amount,Potato Allergy,Tingling sensation on your lips
+1742,Children / Adolescents,Vegetable,Sweet potato,Small Amount,Potato Allergy,Sneezing and Runny nose
+1743,Children / Adolescents,Vegetable,Sweet potato,Small Amount,Potato Allergy,A little drop in blood pressure
+1744,Children / Adolescents,Vegetable,Sweet potato,Large Amount,Potato Allergy,Tingling sensation on your lips
+1745,Children / Adolescents,Vegetable,Sweet potato,Large Amount,Potato Allergy,Sneezing and Runny nose
+1746,Children / Adolescents,Vegetable,Sweet potato,Large Amount,Potato Allergy,A little drop in blood pressure
+1747,Adult,Vegetable,Sweet potato,Small Amount,Potato Allergy,Tingling sensation on your lips
+1748,Adult,Vegetable,Sweet potato,Small Amount,Potato Allergy,Sneezing and Runny nose
+1749,Adult,Vegetable,Sweet potato,Small Amount,Potato Allergy,A little drop in blood pressure
+1750,Adult,Vegetable,Sweet potato,Large Amount,Potato Allergy,Tingling sensation on your lips
+1751,Adult,Vegetable,Sweet potato,Large Amount,Potato Allergy,Sneezing and Runny nose
+1752,Adult,Vegetable,Sweet potato,Large Amount,Potato Allergy,A little drop in blood pressure
+1753,Infant / Toddlers,Vegetable,Tomato,Small Amount,Nightshade Allergy,Achy muscles and joints
+1754,Infant / Toddlers,Vegetable,Tomato,Small Amount,Nightshade Allergy,Itchiness and Loss of consciousness
+1755,Infant / Toddlers,Vegetable,Tomato,Small Amount,Nightshade Allergy,Nausea and vomiting
+1756,Infant / Toddlers,Vegetable,Tomato,Large Amount,Nightshade Allergy,Achy muscles and joints
+1757,Infant / Toddlers,Vegetable,Tomato,Large Amount,Nightshade Allergy,Itchiness and Loss of consciousness
+1758,Infant / Toddlers,Vegetable,Tomato,Large Amount,Nightshade Allergy,Nausea and vomiting
+1759,Children / Adolescents,Vegetable,Tomato,Small Amount,Nightshade Allergy,Achy muscles and joints
+1760,Children / Adolescents,Vegetable,Tomato,Small Amount,Nightshade Allergy,Itchiness and Loss of consciousness
+1761,Children / Adolescents,Vegetable,Tomato,Small Amount,Nightshade Allergy,Nausea and vomiting
+1762,Children / Adolescents,Vegetable,Tomato,Large Amount,Nightshade Allergy,Achy muscles and joints
+1763,Children / Adolescents,Vegetable,Tomato,Large Amount,Nightshade Allergy,Itchiness and Loss of consciousness
+1764,Children / Adolescents,Vegetable,Tomato,Large Amount,Nightshade Allergy,Nausea and vomiting
+1765,Adult,Vegetable,Tomato,Small Amount,Nightshade Allergy,Achy muscles and joints
+1766,Adult,Vegetable,Tomato,Small Amount,Nightshade Allergy,Itchiness and Loss of consciousness
+1767,Adult,Vegetable,Tomato,Small Amount,Nightshade Allergy,Nausea and vomiting
+1768,Adult,Vegetable,Tomato,Large Amount,Nightshade Allergy,Achy muscles and joints
+1769,Adult,Vegetable,Tomato,Large Amount,Nightshade Allergy,Itchiness and Loss of consciousness
+1770,Adult,Vegetable,Tomato,Large Amount,Nightshade Allergy,Nausea and vomiting
+1771,,,,,,
+1772,,,,,,
+1773,,,,,,
+1774,,,,,,
+1775,,,,,,
+1776,,,,,,
+1777,,,,,,
+1778,,,,,,
+1779,,,,,,
+1780,,,,,,
+1781,,,,,,
+1782,,,,,,
+1783,,,,,,
+1784,,,,,,
+1785,,,,,,
+1786,,,,,,
+1787,,,,,,
+1788,,,,,,
+1789,,,,,,
+1790,,,,,,
+1791,,,,,,
+1792,,,,,,
+1793,,,,,,
+1794,,,,,,
+1795,,,,,,
+1796,,,,,,
+1797,,,,,,
+1798,,,,,,
+1799,,,,,,
+1800,,,,,,
+1801,,,,,,
+1802,,,,,,
+1803,,,,,,
+1804,,,,,,
+1805,,,,,,
+1806,,,,,,
+1807,,,,,,
+1808,,,,,,
+1809,,,,,,
+1810,,,,,,
+1811,,,,,,
+1812,,,,,,
+1813,,,,,,
+1814,,,,,,
+1815,,,,,,
+1816,,,,,,
+1817,,,,,,
+1818,,,,,,
+1819,,,,,,
+1820,,,,,,
+1821,,,,,,
+1822,,,,,,
+1823,,,,,,
+1824,,,,,,
+1825,,,,,,
+1826,,,,,,
+1827,,,,,,
+1828,,,,,,
+1829,,,,,,
+1830,,,,,,
+1831,,,,,,
+1832,,,,,,
+1833,,,,,,
+1834,,,,,,
+1835,,,,,,
+1836,,,,,,
+1837,,,,,,
+1838,,,,,,
+1839,,,,,,
+1840,,,,,,
+1841,,,,,,
+1842,,,,,,
+1843,,,,,,
+1844,,,,,,
+1845,,,,,,
+1846,,,,,,
+1847,,,,,,
+1848,,,,,,
+1849,,,,,,
+1850,,,,,,
+1851,,,,,,
+1852,,,,,,
+1853,,,,,,
+1854,,,,,,
+1855,,,,,,
+1856,,,,,,
+1857,,,,,,
+1858,,,,,,
+1859,,,,,,
+1860,,,,,,
+1861,,,,,,
+1862,,,,,,
+1863,,,,,,
+1864,,,,,,
+1865,,,,,,
+1866,,,,,,
+1867,,,,,,
+1868,,,,,,
+1869,,,,,,
+1870,,,,,,
+1871,,,,,,
+1872,,,,,,
+1873,,,,,,
+1874,,,,,,
+1875,,,,,,
+1876,,,,,,
+1877,,,,,,
+1878,,,,,,
+1879,,,,,,
+1880,,,,,,
+1881,,,,,,
+1882,,,,,,
+1883,,,,,,
+1884,,,,,,
+1885,,,,,,
+1886,,,,,,
+1887,,,,,,
+1888,,,,,,
+1889,,,,,,
+1890,,,,,,
+1891,,,,,,
+1892,,,,,,
+1893,,,,,,
+1894,,,,,,
+1895,,,,,,
+1896,,,,,,
+1897,,,,,,
+1898,,,,,,
+1899,,,,,,
+1900,,,,,,
+1901,,,,,,
+1902,,,,,,
+1903,,,,,,
+1904,,,,,,
+1905,,,,,,
+1906,,,,,,
+1907,,,,,,
+1908,,,,,,
+1909,,,,,,
+1910,,,,,,
+1911,,,,,,
+1912,,,,,,
+1913,,,,,,
+1914,,,,,,
+1915,,,,,,
+1916,,,,,,
+1917,,,,,,
+1918,,,,,,
+1919,,,,,,
+1920,,,,,,
+1921,,,,,,
+1922,,,,,,
+1923,,,,,,
+1924,,,,,,
+1925,,,,,,
+1926,,,,,,
+1927,,,,,,
+1928,,,,,,
+1929,,,,,,
+1930,,,,,,
+1931,,,,,,
+1932,,,,,,
+1933,,,,,,
+1934,,,,,,
+1935,,,,,,
+1936,,,,,,
+1937,,,,,,
+1938,,,,,,
+1939,,,,,,
+1940,,,,,,
+1941,,,,,,
+1942,,,,,,
+1943,,,,,,
+1944,,,,,,
+1945,,,,,,
+1946,,,,,,
+1947,,,,,,
+1948,,,,,,
+1949,,,,,,
+1950,,,,,,
+1951,,,,,,
+1952,,,,,,
+1953,,,,,,
+1954,,,,,,
+1955,,,,,,
+1956,,,,,,
+1957,,,,,,
+1958,,,,,,
+1959,,,,,,
+1960,,,,,,
+1961,,,,,,
+1962,,,,,,
+1963,,,,,,
+1964,,,,,,
+1965,,,,,,
+1966,,,,,,
+1967,,,,,,
+1968,,,,,,
+1969,,,,,,
+1970,,,,,,
+1971,,,,,,
+1972,,,,,,
+1973,,,,,,
+1974,,,,,,
+1975,,,,,,
+1976,,,,,,
+1977,,,,,,
+1978,,,,,,
+1979,,,,,,
+1980,,,,,,
+1981,,,,,,
+1982,,,,,,
+1983,,,,,,
+1984,,,,,,
+1985,,,,,,
+1986,,,,,,
+1987,,,,,,
+1988,,,,,,
+1989,,,,,,
+1990,,,,,,
+1991,,,,,,
+1992,,,,,,
+1993,,,,,,
+1994,,,,,,
+1995,,,,,,
+1996,,,,,,
+1997,,,,,,
+1998,,,,,,
+1999,,,,,,
+2000,,,,,,
+2001,,,,,,
+2002,,,,,,
+2003,,,,,,
+2004,,,,,,
+2005,,,,,,
+2006,,,,,,
+2007,,,,,,
+2008,,,,,,
+2009,,,,,,
+2010,,,,,,
+2011,,,,,,
+2012,,,,,,
+2013,,,,,,
+2014,,,,,,
+2015,,,,,,
+2016,,,,,,
+2017,,,,,,
+2018,,,,,,
+2019,,,,,,
+2020,,,,,,
+2021,,,,,,
+2022,,,,,,
+2023,,,,,,
+2024,,,,,,
+2025,,,,,,
+2026,,,,,,
+2027,,,,,,
+2028,,,,,,
+2029,,,,,,
+2030,,,,,,
+2031,,,,,,
+2032,,,,,,
+2033,,,,,,
+2034,,,,,,
+2035,,,,,,
+2036,,,,,,
+2037,,,,,,
+2038,,,,,,
+2039,,,,,,
+2040,,,,,,
+2041,,,,,,
+2042,,,,,,
+2043,,,,,,
+2044,,,,,,
+2045,,,,,,
+2046,,,,,,
+2047,,,,,,
+2048,,,,,,
+2049,,,,,,
+2050,,,,,,
+2051,,,,,,
+2052,,,,,,
+2053,,,,,,
+2054,,,,,,
+2055,,,,,,
+2056,,,,,,
+2057,,,,,,
+2058,,,,,,
+2059,,,,,,
+2060,,,,,,
+2061,,,,,,
+2062,,,,,,
+2063,,,,,,
+2064,,,,,,
+2065,,,,,,
+2066,,,,,,
+2067,,,,,,
+2068,,,,,,
+2069,,,,,,
+2070,,,,,,
+2071,,,,,,
+2072,,,,,,
+2073,,,,,,
+2074,,,,,,
+2075,,,,,,
+2076,,,,,,
+2077,,,,,,
+2078,,,,,,
+2079,,,,,,
+2080,,,,,,
+2081,,,,,,
+2082,,,,,,
+2083,,,,,,
+2084,,,,,,
+2085,,,,,,
+2086,,,,,,
+2087,,,,,,
+2088,,,,,,
+2089,,,,,,
+2090,,,,,,
+2091,,,,,,
+2092,,,,,,
+2093,,,,,,
+2094,,,,,,
+2095,,,,,,
+2096,,,,,,
+2097,,,,,,
+2098,,,,,,
+2099,,,,,,
+2100,,,,,,
+2101,,,,,,
+2102,,,,,,
+2103,,,,,,
+2104,,,,,,
+2105,,,,,,
+2106,,,,,,
+2107,,,,,,
+2108,,,,,,
+2109,,,,,,
+2110,,,,,,
+2111,,,,,,
+2112,,,,,,
+2113,,,,,,
+2114,,,,,,
+2115,,,,,,
+2116,,,,,,
+2117,,,,,,
+2118,,,,,,
+2119,,,,,,
+2120,,,,,,
+2121,,,,,,
+2122,,,,,,
+2123,,,,,,
+2124,,,,,,
+2125,,,,,,
+2126,,,,,,
+2127,,,,,,
+2128,,,,,,
+2129,,,,,,
+2130,,,,,,
+2131,,,,,,
+2132,,,,,,
+2133,,,,,,
+2134,,,,,,
+2135,,,,,,
+2136,,,,,,
+2137,,,,,,
+2138,,,,,,
+2139,,,,,,
+2140,,,,,,
+2141,,,,,,
+2142,,,,,,
+2143,,,,,,
+2144,,,,,,
+2145,,,,,,
+2146,,,,,,
+2147,,,,,,
+2148,,,,,,
+2149,,,,,,
+2150,,,,,,
+2151,,,,,,
+2152,,,,,,
+2153,,,,,,
+2154,,,,,,
+2155,,,,,,
+2156,,,,,,
+2157,,,,,,
+2158,,,,,,
+2159,,,,,,
+2160,,,,,,
+2161,,,,,,
+2162,,,,,,
+2163,,,,,,
+2164,,,,,,
+2165,,,,,,
+2166,,,,,,
+2167,,,,,,
+2168,,,,,,
+2169,,,,,,
+2170,,,,,,
+2171,,,,,,
+2172,,,,,,
+2173,,,,,,
+2174,,,,,,
+2175,,,,,,
+2176,,,,,,
+2177,,,,,,
+2178,,,,,,
+2179,,,,,,
+2180,,,,,,
+2181,,,,,,
+2182,,,,,,
+2183,,,,,,
+2184,,,,,,
+2185,,,,,,
+2186,,,,,,
+2187,,,,,,
+2188,,,,,,
+2189,,,,,,
+2190,,,,,,
+2191,,,,,,
+2192,,,,,,
+2193,,,,,,
+2194,,,,,,
+2195,,,,,,
+2196,,,,,,
+2197,,,,,,
+2198,,,,,,
+2199,,,,,,
+2200,,,,,,
+2201,,,,,,
+2202,,,,,,
+2203,,,,,,
+2204,,,,,,
+2205,,,,,,
+2206,,,,,,
+2207,,,,,,
+2208,,,,,,
+2209,,,,,,
+2210,,,,,,
+2211,,,,,,
+2212,,,,,,
+2213,,,,,,
+2214,,,,,,
+2215,,,,,,
+2216,,,,,,
+2217,,,,,,
+2218,,,,,,
+2219,,,,,,
+2220,,,,,,
+2221,,,,,,
+2222,,,,,,
+2223,,,,,,
+2224,,,,,,
+2225,,,,,,
+2226,,,,,,
+2227,,,,,,
+2228,,,,,,
+2229,,,,,,
+2230,,,,,,
+2231,,,,,,
+2232,,,,,,
+2233,,,,,,
+2234,,,,,,
+2235,,,,,,
+2236,,,,,,
+2237,,,,,,
+2238,,,,,,
+2239,,,,,,
+2240,,,,,,
+2241,,,,,,
+2242,,,,,,
+2243,,,,,,
+2244,,,,,,
+2245,,,,,,
+2246,,,,,,
+2247,,,,,,
+2248,,,,,,
+2249,,,,,,
+2250,,,,,,
+2251,,,,,,
+2252,,,,,,
+2253,,,,,,
+2254,,,,,,
+2255,,,,,,
+2256,,,,,,
+2257,,,,,,
+2258,,,,,,
+2259,,,,,,
+2260,,,,,,
+2261,,,,,,
+2262,,,,,,
+2263,,,,,,
+2264,,,,,,
+2265,,,,,,
+2266,,,,,,
+2267,,,,,,
+2268,,,,,,
+2269,,,,,,
+2270,,,,,,
+2271,,,,,,
+2272,,,,,,
+2273,,,,,,
+2274,,,,,,
+2275,,,,,,
+2276,,,,,,
+2277,,,,,,
+2278,,,,,,
+2279,,,,,,
+2280,,,,,,
+2281,,,,,,
+2282,,,,,,
+2283,,,,,,
+2284,,,,,,
+2285,,,,,,
+2286,,,,,,
+2287,,,,,,
+2288,,,,,,
+2289,,,,,,
+2290,,,,,,
+2291,,,,,,
+2292,,,,,,
+2293,,,,,,
+2294,,,,,,
+2295,,,,,,
+2296,,,,,,
+2297,,,,,,
+2298,,,,,,
+2299,,,,,,
+2300,,,,,,
+2301,,,,,,
+2302,,,,,,
+2303,,,,,,
+2304,,,,,,
+2305,,,,,,
+2306,,,,,,
+2307,,,,,,
+2308,,,,,,
+2309,,,,,,
+2310,,,,,,
+2311,,,,,,
+2312,,,,,,
+2313,,,,,,
+2314,,,,,,
+2315,,,,,,
+2316,,,,,,
+2317,,,,,,
+2318,,,,,,
+2319,,,,,,
+2320,,,,,,
+2321,,,,,,
+2322,,,,,,
+2323,,,,,,
+2324,,,,,,
+2325,,,,,,
+2326,,,,,,
+2327,,,,,,
+2328,,,,,,
+2329,,,,,,
+2330,,,,,,
+2331,,,,,,
+2332,,,,,,
+2333,,,,,,
+2334,,,,,,
+2335,,,,,,
+2336,,,,,,
+2337,,,,,,
+2338,,,,,,
+2339,,,,,,
+2340,,,,,,
+2341,,,,,,
+2342,,,,,,
+2343,,,,,,
+2344,,,,,,
+2345,,,,,,
+2346,,,,,,
+2347,,,,,,
+2348,,,,,,
+2349,,,,,,
+2350,,,,,,
+2351,,,,,,
+2352,,,,,,
+2353,,,,,,
+2354,,,,,,
+2355,,,,,,
+2356,,,,,,
+2357,,,,,,
+2358,,,,,,
+2359,,,,,,
+2360,,,,,,
+2361,,,,,,
+2362,,,,,,
+2363,,,,,,
+2364,,,,,,
+2365,,,,,,
+2366,,,,,,
+2367,,,,,,
+2368,,,,,,
+2369,,,,,,
+2370,,,,,,
+2371,,,,,,
+2372,,,,,,
+2373,,,,,,
+2374,,,,,,
+2375,,,,,,
+2376,,,,,,
+2377,,,,,,
+2378,,,,,,
+2379,,,,,,
+2380,,,,,,
+2381,,,,,,
+2382,,,,,,
+2383,,,,,,
+2384,,,,,,
+2385,,,,,,
+2386,,,,,,
+2387,,,,,,
+2388,,,,,,
+2389,,,,,,
+2390,,,,,,
+2391,,,,,,
+2392,,,,,,
+2393,,,,,,
+2394,,,,,,
+2395,,,,,,
+2396,,,,,,
+2397,,,,,,
+2398,,,,,,
+2399,,,,,,
+2400,,,,,,
+2401,,,,,,
+2402,,,,,,
+2403,,,,,,
+2404,,,,,,
+2405,,,,,,
+2406,,,,,,
+2407,,,,,,
+2408,,,,,,
+2409,,,,,,
+2410,,,,,,
+2411,,,,,,
+2412,,,,,,
+2413,,,,,,
+2414,,,,,,
+2415,,,,,,
+2416,,,,,,
+2417,,,,,,
+2418,,,,,,
+2419,,,,,,
+2420,,,,,,
+2421,,,,,,
+2422,,,,,,
+2423,,,,,,
+2424,,,,,,
+2425,,,,,,
+2426,,,,,,
+2427,,,,,,
+2428,,,,,,
+2429,,,,,,
+2430,,,,,,
+2431,,,,,,
+2432,,,,,,
+2433,,,,,,
+2434,,,,,,
+2435,,,,,,
+2436,,,,,,
+2437,,,,,,
+2438,,,,,,
