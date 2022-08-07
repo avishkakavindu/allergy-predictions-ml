@@ -28,4 +28,9 @@ class UserSerializer(serializers.ModelSerializer):
         fields = ['id', 'username', 'first_name', 'last_name', 'patient']
 
 
+class ReferenceSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = Reference
+        fields = ['url']
 

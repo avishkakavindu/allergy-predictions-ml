@@ -116,16 +116,18 @@ class AllergyAPIView(APIView):
         foods = list(Food.objects.filter(food_type__in=food_type_obj).values_list('food', flat=True))
         foods = [food.lower() for food in foods]
 
-        print(type(foods), food_list)
-
         allergens = [food for food in eval(food_list) if food.lower() in foods]
+
+        references = Reference.objects.filter(allergy__allergy__contains=allergy)
+
+        serializer = ReferenceSerializer(references, many=True)
 
         context = {
             'predicted_allergy': allergy,
             'predicted_food_type': food_type,
-            'possible_allergens': allergens
+            'possible_allergens': allergens,
+            'references': serializer.data
         }
 
-
-        return Response(context)
+        return Response(context, status=status.HTTP_200_OK)
 
